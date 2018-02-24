@@ -1,0 +1,10 @@
+https://www.internet-class.org/courses/fys/syllabus/
+
+WWW v/s Internet
+  - WWW ⊆ Internet (WWW, Email)
+
+Quantified Self
+  -
+
+
+vim:ts=2:et:norl:

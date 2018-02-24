@@ -1,0 +1,56 @@
+Smart and Gets Things Done - Joel Spolsky
+
+Getting things done and smarter - only trait best developer has.
+Author put the formula for making the profit
+Best working conditions -> Best programmers-> Best Software -> More profit.
+With the asummption that software duplicatation costs no extra money.
+So how to hire the best programmater
+1. Some stats about the best programmer - 10x developers
+As Yale CS323 stat that best programmer finishes the project 10x much afster while there is no relation between time and quality of the code.
+Next is where to find them
+1. They will be never on the marker
+3. Attend famous conferences
+4. Make best use of time and develop best side projects
+
+Next is resume slection
+1. Passion - side projects, tech nology
+2. communication - check the grammar
+3. Cluster them amartuer, professional or guru
+
+How to do the phon interview
+1. Ask techinical - Basic fiz-bizz, later pointer - what is the size of pointer
+2. Politcal - If they are leading some effort , idenity theri role and acontribution and ask how they did that
+Onsite interview guide
+1. Treat them like samurai as they came to save you from enemy. Never keep them waiting it sends negative signal
+
+How to update the working conditions
+1. Monitor choice
+2. How to choose the chairs - choose the best possible upto 800 USD
+
+Impact of bad hire
+1. Direct : cost to compnay
+2. Indirect : demoralize best developers
+
+How to handle the bad practices or developer
+1. USE rubber room tactic
+
+Mangement : How ot manage comany
+1. Command and control -
+Works best in defence but it tranaslate to Hit and run tactic .DEvelopers like autonomy
+2. Econ 101 - give them raise for good performance.
+After sometime developers will find the loopholes and will try to gain the adavantage of it
+
+3.Identity management scheme - in this scheme treat developers with respect communicate with them actual issue and give them rewards as necesary
+
+
+
+How to keep them happy
+
+Best developers always hit high notes.
+Nevre put faith on the employee referral system as it will bring the bad developers.
+Author cluster developers into 3 categority
+1. Hopelesss
+2. Need attention
+3. 10X
+
+smart-and-gets-things-done
