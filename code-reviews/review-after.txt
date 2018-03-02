@@ -1,0 +1,2 @@
+@Transactional V/S @Transactional(readOnly = true)
+http://256stuff.com/gray/docs/misc/performance_optimizing_spring_hibernate_transactions/

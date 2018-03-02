@@ -1,0 +1,3 @@
+Policy  - Data classes class-1,2...n
+Mechanism - 
+Threat model

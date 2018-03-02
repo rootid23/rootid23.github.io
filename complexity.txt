@@ -1,0 +1,43 @@
+
+Permutaion function complexity
+1. Combination
+1. Permutation
+1. N-queen, Telephone, DNA sequences
+
+
+Recurrence solution
+Amortized analysis
+
+Unique path
+Robot traversal with unique paths (down, right)
+1	1	1
+1	2	3
+1	3	6
+
+1	1	1	 1
+1	2	3	 4
+1	3	6	10
+1	4	10	20
+
+
+
+http://algs4.cs.princeton.edu/cheatsheet/
+ALGORITHM	IN PLACE	STABLE	BEST	AVERAGE	WORST	REMARKS
+selectionsort		✔		½ n 2	½ n 2	½ n 2	n exchanges; quadratic in best case
+insertionsort		✔	✔	n	¼ n 2	½ n 2	use for small or partially-sorted arrays
+bubble sort		✔	✔	n	½ n 2	½ n 2	rarely useful; use insertion sort instead
+shellsort		✔		n log3 n	unknown	c n 3/2	tight code; subquadratic
+mergesort			✔	½ n lg n	n lg n	n lg n	n log n guarantee; stable
+quicksort		✔		n lg n	2 n ln n	½ n 2	n log n probabilistic guarantee; fastest in practice
+heapsort		✔		n †	2 n lg n	2 n lg n	n log n guarantee; in place
+
+Sort
+Selection=
+Insertion=
+Bubble=
+Shell=
+Merge=
+Quick=
+Heap=
+
+

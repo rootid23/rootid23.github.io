@@ -1,0 +1,147 @@
+--- Review checklist ---
+https://blog.smartbear.com/code-review/creating-your-code-review-checklist/
+https://wiki.sei.cmu.edu/confluence/display/java/3+Recommendations
+https://dzone.com/articles/java-code-review-checklist
+http://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/
+https://blog.smartbear.com/code-review/creating-your-code-review-checklist/
+
+file:///Users/${home}/Desktop/style-guide.html#header-naming
+
+--- How to do review ---
+https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/
+https://github.com/thoughtbot/guides/tree/master/code-review
+
+https://www.mediawiki.org/wiki/Gerrit/Code_review#Readability
+I've inspected this code, and
+the code makes sense, and
+the code works and does something that we want to do, and
+the code doesn't do anything that we don't want it to do, and
+the code follows our development guidelines, and
+the code will still make sense in five years.
+
+-Ve F/b
+Focus your comments on the code and any objectively-observed behavior, not motivations; for example, don't state or imply assumptions about motivating factors like whether the developer was too lazy or unexperienced to do things right. Ask questions instead of making demands to foster a technical discussion: "What do you think about...?" "Did you consider...?" "Can you clarify...?"[3]
+Be empathetic and kind. Recognize that the developer has probably put a lot of work in their idea, and thank them for their contribution if you feel comfortable and sincere in doing so. "Why didn't you just..." provides a judgement, putting people on the defensive.[3] Be positive.
+Let them know where they can appeal your decision. For example, invite them to discuss the issue on list:wikitech-l or on IRC.
+Be clear. Don't sugarcoat things so much that the central message is obscured.
+Most importantly, give the feedback quickly. Don't just leave negative feedback to someone else or hope they aren't persistent enough to get their contribution accepted.
+
+---- My TODO list ----
+Have I defined the scope of the problem?
+Have I visualized the scope of the problem?
+Have I increased the scope of the problem? -> Scope creep
+Is everything logged? Logging -> Log4j,CAL,Splunk -> Engg v/s Approx
+Is Class name,Function name, Variable name correct?
+Is Class scope,Function scope, Variable scope correct?
+Is UT has full coverage?
+Did I include unnecesary dependency?
+Check Vertical alignment.
+Check Horizontal alignment.
+
+Does this code read like prose?
+Do the methods do what the name of the method claims that they’ll do? Same for classes?
+Can I get an understanding of the desired behavior just by doing quick scans through unit and acceptance tests?
+Does the understanding of the desired behavior match the requirements/stories for this work?
+Is this code introducing any new dependencies between classes/components/modules and, if so, is it necessary to do that?
+Is this code idiomatic, taking full advantage of the language, frameworks, and tools that we use?
+Is anything here a re-implementation of existing functionality the developer may not be aware of?
+
+
+------ Java ------
+Code Review Checklist
+General
+
+Does the code work? Does it perform its intended function, the logic is correct etc.
+Is all the code easily understood?
+Does it conform to your agreed coding conventions? These will usually cover location of braces, variable and function names, line length, indentations, formatting, and comments.
+Is there any redundant or duplicate code?
+Is the code as modular as possible?
+Can any global variables be replaced?
+Is there any commented out code?
+Do loops have a set length and correct termination conditions?
+Can any of the code be replaced with library functions?
+Can any logging or debugging code be removed?
+Security
+
+Are all data inputs checked (for the correct type, length, format, and range) and encoded?
+Where third-party utilities are used, are returning errors being caught?
+Are output values checked and encoded?
+Are invalid parameter values handled?
+Documentation
+
+integration testing
+Do comments exist and describe the intent of the code?
+Are all functions commented?
+Is any unusual behavior or edge-case handling described?
+Is the use and function of third-party libraries documented?
+Are data structures and units of measurement explained?
+Is there any incomplete code? If so, should it be removed or flagged with a suitable marker like ‘TODO’?
+Testing
+
+Is the code testable? i.e. don’t add too many or hide dependencies, unable to initialize objects, test frameworks can use methods etc.
+Do tests exist and are they comprehensive? i.e. has at least your agreed on code coverage.
+Do unit tests actually test that the code is performing the intended functionality?
+Are arrays checked for ‘out-of-bound’ errors?
+Could any test code be replaced with the use of an existing API?
+
+
+######### Secure coding #########
+https://wiki.sei.cmu.edu/confluence/display/java/EXP50-J.+Do+not+confuse+abstract+object+equality+with+reference+equality
+
+
+Logic
+Ternary condition operators
+Prefer Guard Clause-style code
+Check true conditions first
+Flatten nested if-blocks with multiple return clauses
+Avoid case-insensitive string comparison of constants
+Perform null-safe equality checks and comparisons when possible
+
+Variables
+Use final in some situations
+Constants must be true constants
+Constants must be thread-safe
+Handling streams, files, and resources
+Explicitly declare text encoding / character set
+Reference StandardCharsets when possible
+Use UTF-8 for all resources, files, and streams unless required to do otherwise
+
+Math
+Use BigDecimal.valueOf(double) rather than new BigDecimal(double)
+Use BigDecimal.compareTo(BigDecimal) instead of BigDecimal.equals(Object)
+Handling dates and times
+Use java.time in Java 8, use Joda Time before Java 8
+Prefer use of Instant over DateTime
+Represent ambiguous values appropriately
+Always explicitly declare timezones
+Use tz database-style timezones
+Understand when to use SQL TIMESTAMP and SQL DATE
+Localization and Locale
+Always explicitly declare locale
+Understand the effect of national locales before use
+Static utility classes
+
+Naming
+
+Structure
+Prefer composition to inheritance
+Avoid creating static factory classes
+Avoid external effects
+
+Enums
+Direct string to enum name mappings should be performed via valueOf(String)
+Enum lookups should be exposed via a constant-time Map
+Exception handling
+Do not catch Throwable, Error, Exception, or RuntimeException
+Do not throw Throwable, Error, Exception, or RuntimeException
+Throw NullPointerException when an argument is null
+Do not quietly swallow exceptions; handle them meaningfully
+Log complete stacktraces and do not throw away original exceptions
+
+Optional
+Return Optional from methods instead of null
+Do not use Optional as member variable
+Existing files that do not meet these standards
+
+
+vim:tw=90:et:norl:

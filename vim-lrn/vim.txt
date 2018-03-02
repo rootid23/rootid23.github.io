@@ -1,0 +1,16 @@
+# How to list the installed plugins and version?
+-> vim --version
+
+# How to format file?
+-> modelines
+-> editorconfig plugin [ https://github.com/editorconfig/editorconfig-vim ]
+
+# Vertical format
+:set formatprg=par
+:set formatprg=par\ -w50 "Set the line width = 50
+run the gq command. (run default settings)
+
+#Vim W/O plugins
+https://www.youtube.com/watch?v=XA2WjJbmmoM
+
+vim: set ts=2 sw=2 et:

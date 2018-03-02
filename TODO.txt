@@ -1,0 +1,50 @@
+https://landing.google.com/sre/book/chapters/production-environment.html
+https://landing.google.com/sre/book.html
+https://mirror-vm.apache.org/~henkp/trust/
+https://www.safaribooksonline.com/library/view/java-concurrency-in/0321349601/ch06.html
+
+discrete struct
+http://home.iitk.ac.in/~arlal/book/mth202.pdf
+
+https://www.safaribooksonline.com/library/view/JOEL+ON+SOFTWARE:+And+on+Diverse+and+Occasionally+Related+Matters+That+Will+Prove+of+Interest+to+Software+Developers,+Designers,+and+Managers,+and+to+Those+Who,+Whether+by+Good+Fortune+or+Ill+Luck,+Work+with+Them+in+Some+Capacity/9781590593899/Chapter04.html#CHP-4-FN-9
+
+
+What is your Blue Ocean Strategy?
+
+What is the strategy?
+How it Works?
+Why it works?
+
+### Book summary
+http://www.jfdperfsolutions.com/
+
+### Conference security ### 
+https://defcon.org/
+https://iacr.org/
+
+### Subway hacks ### 
+http://tech.mit.edu/V128/N30/subway/Defcon_Presentation.pdf
+
+### Maths ### 
+http://www.sagemath.org/
+
+### Book review ### 
+https://owl.english.purdue.edu/owl/resource/704/1/
+
+https://www.getabstract.com
+
+https://blog.hidimensional.com/
+### Grok system design
+https://www.educative.io/collection/5668639101419520/5649050225344512
+
+https://codefights.com/interview-practice
+
+I am a software engineer, machine learning infrastructure and algorithms developer experienced in client (Android) and server infrastructure. I am self-motivated, lead by example, with a collaborative working style. I am a pragmatic, data-driven, product-oriented engineer. I am also a computer scientist and researcher in algorithms in computational geometry and algorithms in applied areas, including online advertising, statistical analysis, microeconomic simulation, scientific computing, graphics and visualization, wireless networking, robotics, microeconomic simulation, auction market design.
+
+Skills
+Java (Android), C++, Python, Go, Clojure, and Sawzall programming. Python and R for statistical data analysis. C++, Java/Android/Clojure, and Python for production code. Go for server-side scripting.
+
+Specialties
+Experienced in infrastructure for deep Machine Learning for YouTube’s Emmy award-winning recommendation system; Android development for new buttery-smooth user experience on YouTube on 2G networks; Algorithms and infrastructure for Search Ads at Google; Computational geometry algorithms, software consulting, and research.
+
+Developing and implementing algorithms for large data sets that allow principled trade-offs between accuracy and efficiency. Developing geometric algorithms and using geometric insight to exploit previously unknown connections between problems in diverse areas including theory and practical applications.

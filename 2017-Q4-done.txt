@@ -1,0 +1,49 @@
+1.  Mockito (# of when == # of verify + Testcontext pattern) VS easyMock 
+(when vs expect, verify once vs verifyall).
+2.  Cal Txn vs Event
+3.  tesng(@Beforemethod) and junit4 (@Before)
+4.  expected : need to rethrow exception and use annotation
+5.  Economics of scale : formatter (google formatter,astyle), use of direnv,pyenv
+6.  dependencymangement vs dependencies
+7.  git cherry picks(start...end) + apply + git add + continue
+8.  Use of .github
+9.  Use of .editorconfig (minimalist env)
+10. Use of hooks
+11. mock_server usage
+12. maven dir structure (src,test,resource) + use of properties in spring
+13. Use of DFS to find out the dependecies
+14. Use of lombok
+15. Generic replacement
+16. Vim Range replacement, use of "f" to delete
+17. superpom vs top-level pom + use of XXXXService to create an artifact with assembler + put all libs + jars in a single location
+18. DozerMapper , ObjectMapper
+20. Dummy vs Mock object (Needs verification)
+21. Use of vars in postman
+22. fpaccountserv to link the account.
+23. Use of instance of 
+24. Exception modelling to throw exception from bottom(DomainXXX level) and catch at top (ResoureXXX/Service level). 
+Throw (Bottom up) and catch at top.
+25. Use of .gitconfig
+26. Apache CXF vs Jax-rs v/s resteasy
+27. Pair of (@Inject->@Component)
+28. POSTMAN with variables. -> HttpPie Alternative
+
+
+//### Rest client design ####
+1. Tests development (Return types either array [] or Object {})
+2. Simple plain APACHE http client with emphasis on correct inheritance and use of functionality.
+
+//### 
+1. Use of FMPP (Preprocessor)
+http://fmpp.sourceforge.net/index.html
+2. Top 10 security vulnerabilities
+3. Use of servername var in apache
+
+//#### 
+1. Use of cache restricting the DB calls. (ehcache)
+2. Hard (status code update) vs Soft redirect (In JS with redirect)
+3. Modify the servlet code
+
+#### Use of BOT ######
+1. Callbacks
+2. Logs

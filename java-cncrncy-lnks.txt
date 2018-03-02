@@ -1,0 +1,26 @@
+Java 8 Javadocs: https://docs.oracle.com/javase/8/docs/api/
+PCDP Javadocs: https://habanero-rice.github.io/PCDP/
+PCDP Source Code: https://github.com/habanero-rice/PCDP
+RecursiveAction: https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/RecursiveAction.html
+RecursiveTask: http://docs.oracle.com/javase/8/docs/api/?java/util/concurrent/RecursiveTask.html
+ForkJoinPool: https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/ForkJoinPool.html
+Java Streams Javadocs: https://docs.oracle.com/javase/8/docs/api/java/util/stream/package-summary.html
+The Java Stream class: https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html
+HJlib documentation: http://pasiphae.cs.rice.edu/
+A simple Java tutorial on streams: http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
+A simple Java ForkJoin tutorial: https://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html
+Using the JDK's performance profiler: http://docs.oracle.com/javase/7/docs/technotes/guides/visualvm/
+
+
+•	Theory of parallelism: computation graphs, work, span, ideal parallelism, parallel speedup, Amdahl's Law, data races, and determinism
+•	Task parallelism using Java’s ForkJoin framework
+•	Functional parallelism using Java’s Future and Stream frameworks
+•	Loop-level parallelism with extensions for barriers and iteration grouping (chunking)
+•	Dataflow parallelism using the Phaser framework and data-driven tasks
+
+•	All computers are multicore computers, so it is important for you to learn how to extend your knowledge of sequential Java programming to multicore parallelism.
+•	Java 7 and Java 8 have introduced new frameworks for parallelism (ForkJoin, Stream) that have significantly changed the paradigms for parallel programming since the early days of Java.
+•	Each of the four modules in the course includes an assigned mini-project that will provide you with the necessary hands-on experience to use the concepts learned in the course on your own, after the course ends.
+•	During the course, you will have online access to the instructor and the mentors to get individualized answers to your questions posted on forums.
+
+https://www.cs.umd.edu/class/spring2017/cmsc433/lecture-materials/notes/

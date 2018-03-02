@@ -1,0 +1,52 @@
+String | StringBuffer  |  StringBuilder
+Immutable |  safe		  |
+Immutatable char array | Mutable char array
+Substring | optimal | append  (optimal)
+
+Vector | ArrayList
+
+Worst design java.util.time?
+
+###
+Callable vs Runnable
+Callable - Return result
+Runnable -
+
+## Lambda - Annonymous function
+
+Syntax
+1. (parameters) -> expression eg.  () -> "Raoul" (0 params)
+2. (parameters) -> { statements; } eg.  () -> { return "Mario"; }
+
+Used as
+1. Functional interface  eg. Predicate<T> (FI for map,reduce,filter),
+eg . List<Apple> greenApples =
+        filter(inventory, (Apple a) -> "green".equals(a.getColor()));
+
+
+
+### JAVA
+Integer.MIN_VALUE
+Integer.MAX_VALUE
+
+Iterators
+Graph
+
+Function
+Math.min
+Math.max
+
+### C++
+MIN_INT
+MAX_INT
+
+Iterators
+Graph
+
+min
+max
+
+
+# vim: set ts=2 sw=2 et:
+
+

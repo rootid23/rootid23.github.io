@@ -1,0 +1,51 @@
+1. ReflectionUtils in spring
+2. Xunit patterns
+3. Base for DSL and use of Json struct to build the objects
+(Find the common data types and create Domain value pool with tainted and untainted input).
+4. Use of ANTLR in functional tests
+5. Explore Grafana
+6. Docker deployment from local env
+7. Altus APIS
+8. Use of RemoteConfig,ValidateInternal
+9. Keys magic + KeyMaker
+10. Use of profiles
+11. Vim scripting
+12. Vim Recording
+
+1. Different apache modules like dynamic code generation module
+
+1. Error while deploying the app (Ideally need to take app server from list of web server)
+As both are tightly coupled issue while deploying on the live machine.
+(Classic case of Halting problem)
+
+#### Need to exlpore ###
+1. Winsoton logging
+2. Which one to simulate
+	1. Rally simulator or
+	2. Slack for local development
+	
+####### Different deployment Frameworks
+1. Capistrano
+
+#### Logging framenwork
+2. Splunk
+
+#### Monitoring f/k
+1. Nagios
+
+
+1. Finish clean code
+2. Finish Refactor cook book.
+3. Read Large scale c++ (sake of ideas)
+4. Read capacity Planning
+5. Docker explore
+6. Write Plugin to resolve the dependency during code generation
+7. Explore pyenv to reset the VIM and source the scripts
+8. Read skiena algo
+9. Read princeton algo
+10. Create minimalist dev env
+11. Learn react + functional PL
+12. continue with chrome plugin development
+13. CPP data struct book
+14. numpy explore
+

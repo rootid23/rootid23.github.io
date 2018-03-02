@@ -1,0 +1,200 @@
+Brooks law
+The Boy Scout Rule
+Productivity vs Time
+Programmar's power
+
+Why code Rots?
+1. Rigidity
+  Change in one module breaks other modules.
+  Symptoms
+  Blow our estimates/No defnite predecialbilty.
+2. Fragility
+  Addition of new feature causes unpredicatable failure.
+3. Inseperable
+  Zero reusability. Cost of resuse > Cost of making new module 
+4. Opacity
+  Hard to read,change and understand.
+
+Clean Code
+
+Elegant -
+Efficient - Uses very few cycle
+Should do one thing
+
+Simple and direct + Well written prose
+
+Written by someone who cares
+
+
+Names
+  Reveal your intentions
+  True cost of S/W - maintainance
+  eg. Instead of INCLUDED
+    Range -> OPEN (), CLOSE[], LEFT_OPEN (]
+
+
+
+TDD laws
+First Law - First write unit tests and then production code.
+Second Law - If unit tests are failing, write production code.
+Third Law - When all unit tests are passing, stop writing production code.
+
+
+Make it work
+Then, make it right.
+
+Code smells/rot
+
+COMMENTS
+
+Inappropriate Information
+Obsolete Comment
+Redundant Comment
+Poorly Written Comment
+Commented-Out Code
+
+ENVIRONMENT
+Build Requires More Than One Step
+Tests Require More Than One Step
+
+FUNCTIONS
+1. Too Many Arguments (No more than 3)
+  Readability is directly proportional to # of Arguments.
+2. Output Arguments
+3. Flag Arugument
+  render(boolean isSuite) helps a little, but not that much. We should have split the
+function into two: renderForSuite() and renderForSingleTest().
+4. Dead function
+
+write(name) v/s writeField(name)
+
+
+1. Obvious Behavior Is Unimplemented
+The Principle of Least Surprise/The Principle of Least Astonishment
+
+2.Duplication (Evil read)
+Find out by reading the code
+It represents a missed opportunity for abstraction
+Coding becomes faster and less error prone because you have raised the abstraction
+level.
+switch/case or if/else - should be replaced with polymorphism.
+Modules that have similar algorithms- TEMPLATE METHOD or STRATEGY pattern.
+
+
+Naming
+
+Use Standard Nomenclature Where Possible
+Unambiguous Names
+Use Long Names for Long Scope
+  Length of names directly proptional to scope (module,class,local,block)
+  Use Standard Nomenclature Where Possible
+  Disinformation eg. abstract int toSerial() (concrete name to abstract method)
+  Namdheyam kim dhanam
+Meant for communication
+
+Parts of speech
+classes, variables : Nouns/Noun Phrase (silly words Manager,data/processor,info)
+Methods : Verb
+Booleans : Predicates (isEmpty,isTerminated)
+Enums : Adjectives (states)
+
+Avoid Encodings
+m_ or vis_ or *p,sz : Hungarian notation
+Names Should Describe Side-Effects
+getOos v/s createOrReturnOos
+
+  
+
+
+GuideLines
+
+1. Encapsulate Boundary Conditions
+ if(level + 1 < tags.length) {
+     parts = new Parse(body, tags, level + 1, offset + endTag);
+     body = null;
+  } 
+V/S
+  int nextLevel = level + 1;
+  if(nextLevel < tags.length) {
+    parts = new Parse(body, tags, nextLevel, offset + endTag);
+    body = null;
+  }
+
+2. Functions Should Descend Only One Level of Abstraction
+
+DO not mix levels of abstraction
+	public String render() throws Exception {
+     StringBuffer html = new StringBuffer(“<hr”);
+     if(size > 0)
+       html.append(” size=\“”).append(size + 1).append(”\“”);
+     html.append(“>”);
+     return html.toString();
+   }
+V/S
+   public String render() throws Exception {
+     HtmlTag hr = new HtmlTag(“hr”);
+     if (extraDashes > 0)
+       hr.addAttribute(“size”, hrSize(extraDashes));
+     return hr.html();
+   }
+   private String hrSize(int height) {
+     int hrSize = height + 1;
+     return String.format(“%d”, hrSize);
+   }
+
+3. Functions Should Do One Thing
+	public void pay() {
+     for (Employee e : employees) {
+       if (e.isPayday()) {
+         Money pay = e.calculatePay();
+         e.deliverPay(pay);
+       }
+     }
+   }
+	V/S 
+	public void pay() {
+     for (Employee e : employees)
+       payIfNecessary(e);
+   }
+ 
+   private void payIfNecessary(Employee e) {
+     if (e.isPayday())
+       calculateAndDeliverPay(e);
+   }
+ 
+   private void calculateAndDeliverPay(Employee e) {
+     Money pay = e.calculatePay();
+     e.deliverPay(pay);
+   }
+4. Avoid Negative Conditionals
+   if (buffer.shouldCompact()) v/s  if (!buffer.shouldNotCompact())
+
+5. Encapsulate Conditionals
+   if (shouldBeDeleted(timer)) v/s  if (timer.hasExpired() && !timer.isRecurrent())
+
+6. Replace Magic Numbers with Named Constants (TODO : grep or ack numbers)
+
+7. Prefer Polymorphism to If/Else or Switch/Case
+
+8. Function Names Should Say What They Do
+Date newDate = date.add(5); v/s date.daysSince(5);
+
+9. Use Explanatory Variables
+
+10. Inappropriate Static
+Math.max(double a, double b) v/s HourlyPayCalculator.calculatePay(employee, overtimeRate).
+We may wish to implement several different algorithms for calculating hourly pay, for example, OvertimeHourlyPayCalculator and StraightTimeHourlyPayCalculator.
+So not useful to have a attic method
+
+11. Clutter
+Of what use is a default constructor with no implementation? All it serves to do is clutter up the code with meaningless artifacts. Variables that aren’t used, functions that are never called, comments that add no information, and so forth. All these things are clutter and should be removed. Keep your source files clean, well organized, and free of clutter;
+
+12. Vertical Separation
+Variables and function should be defined close to where they are used. Local variables should be declared just above their first usage and should have a small vertical scope. We don’t want local variables declared hundreds of lines distant from their usages.
+
+
+
+
+
+# vim: ts=2 sw=2 tw=85 et
+
