@@ -1,0 +1,16 @@
+## range(>=2.7)- list  v/s xrange (upto 2.7) - generator
+- memory vs speed (lazy eval, sys).
+- cmptblty
+
+## is vs ==
+is checks that 2 arguments refer to the same object, == checks that 2 arguments have the same value
+https://stackoverflow.com/questions/15008380/double-equals-vs-is-in-python
+
+## slice, splice, collections -> heap,stack, queue, sort lk cmprator, iterators
+## stack
+
+-- sort()- inplace vs sorted() --
+-- Use of help
+-- dict
+
+

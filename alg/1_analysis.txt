@@ -1,0 +1,4 @@
+
+-- Memory model
+-- computation cost
+-- Python cost, Java cost, C++cost

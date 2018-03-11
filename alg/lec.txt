@@ -1,0 +1,403 @@
+# 7 courses - (24 lect)
+# (S-F) 6 days
+--- NOTE : there might be lot of overlaps
+-- 24 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-notes/
+Unit 1: Introduction
+Unit 2: Sorting and Trees
+Unit 3: Hashing
+Unit 4: Numerics
+Unit 5: Graphs
+Unit 6: Shortest Paths
+Unit 7: Dynamic Programming
+Unit 8: Advanced Topics
+
+Notes : https://learning-modules.mit.edu/materials/index.html?uuid=/course/6/fa16/6.006#materials
+
+-- 12 http://www.algorist.com/programming_challenges/
+Getting Started
+Data Structures
+Strings
+Sorting
+Arithmetic and Algebra
+Combinatorics
+Number Theory
+Backtracking
+Graph Traversal
+Graph Algorithms
+Dynamic Programming
+Geometry
+Computational Geometry
+
+10 -- http://www.algorist.com/computational_biology/
+5 Introduction to Suffix Trees
+6 Suffix Trees in Action
+7 Suffix Arrays and Assembly
+8 String Matching Algorithms
+9 Projects/Approximate String Matching
+10 Dynamic Programming
+11 Smith-Waterman Algorithm
+12 Space-Efficient Dynamic Programming
+14 Markov Models
+15 Hidden Markov Models (bad audio)
+17 Introduction to Microarrays
+18 Clustering Algorithms
+
+-- 22 http://www3.cs.stonybrook.edu/~skiena/373/newlectures/
+lecture1.pdf
+lecture10.pdf
+lecture11.pdf
+lecture12.pdf
+lecture13.pdf
+lecture14.pdf
+lecture15.pdf
+lecture16.pdf
+lecture17.pdf
+lecture18.pdf
+lecture19.pdf
+lecture2.pdf
+lecture20.pdf
+lecture21.pdf
+lecture22.pdf
+lecture3.pdf
+lecture4.pdf
+lecture5.pdf
+lecture6.pdf
+lecture7.pdf
+lecture8.pdf
+lecture9.pdf
+
+-- 24 lectures , 6 chapters - https://www.coursera.org/learn/algorithms-part1, https://www.coursera.org/learn/algorithms-part2
+Lecture 1: Union-Find. We illustrate our basic approach to developing and analyzing algorithms by
+considering the dynamic connectivity problem. We introduce the union-find data type and consider
+several implementations (quick find, quick union, weighted quick union, and weighted quick union
+with path compression). Finally, we apply the union-find data type to the percolation problem from
+physical chemistry.
+
+Lecture 2: Analysis of Algorithms. The basis of our approach for analyzing the performance of
+algorithms is the scientific method. We begin by performing computational experiments to measure the
+running times of our programs. We use these measurements to develop hypotheses about performance.
+Next, we create mathematical models to explain their behavior. Finally, we consider analyzing the
+memory usage of our Java programs.
+
+Lecture 3: Stacks and Queues. We consider two fundamental data types for storing collections of
+objects: the stack and the queue. We implement each using either a singly-linked list or a resizing
+array. We introduce two advanced Java features–generics and iterators–that simplify client code.
+Finally, we consider various applications of stacks and queues ranging from parsing arithmetic
+expressions to simulating queueing systems.
+
+Lecture 4: Elementary Sorts. We introduce the sorting problem and Java's Comparable interface. We
+study two elementary sorting methods (selection sort andinsertion sort) and a variation of one of
+them (shellsort). We also consider two algorithms for uniformly shuffling an array. We conclude with
+an application of sorting to computing the convex hull via the Graham scan algorithm.
+
+Lecture 5: Mergesort. We study the mergesort algorithm and show that it guarantees to sort any array
+of N items with at most NlgN compares. We also consider a nonrecursive, bottom-up version. We prove
+that any compare-based sorting algorithm must make at least ∼NlgN compares in the worst case. We
+discuss using different orderings for the objects that we are sorting and the related concept of
+stability.
+
+Lecture 6: Quicksort. We introduce and implement the randomized quicksort algorithm and analyze
+its performance. We also consider randomized quickselect, a quicksort variant which finds the kth
+smallest item in linear time. Finally, consider 3-way quicksort, a variant of quicksort that works
+especially well in the presence of duplicate keys.
+
+Lecture 7: Priority Queues. We introduce the priority queue data type and an efficient
+implementation using the binary heap data structure. This implementation also leads to an efficient
+sorting algorithm known as heapsort. We conclude with an applications of priority queues where we
+simulate the motion of N particles subject to the laws of elastic collision.
+
+Lecture 8: Elementary Symbol Tables. We define an API for symbol tables (also known as associative
+arrays) and describe two elementary implementations using a sorted array (binary search) and
+an unordered list (sequential search). When the keys are Comparable, we define an extended API
+that includes the additional methods min, max floor, ceiling, rank, and select. To develop an
+efficient implementation of this API, we study the binary search tree data structure and analyze its
+performance
+
+Lecture 9: Balanced Search Trees. In this lecture, our goal is to develop a symbol table with
+guaranteed logarithmic performance for search and insert (and many other operations). We begin with
+2-3 trees, which are easy to analyze but hard to implement. Next, we consider red-black binary
+search trees, which we view as a novel way to implement 2-3 trees as binary search trees. Finally,
+we introduce B-trees, a generalization of 2-3 trees that are widely used to implement file systems.
+
+Lecture 10: Geometric Applications of BSTs. We start with 1d and 2d range searching, where the goal
+is to find all points in a given 1d or 2d interval. To accomplish this, we consider kd-trees, a
+natural generalization of BSTs when the keys are points in the plane (or higher dimensions). We also
+consider intersection problems, where the goal is to find all intersections among a set of line
+segments or rectangles.
+
+Lecture 11: Hash Tables. We begin by describing the desirable properties of hash functions
+and how to implement them in Java, including a fundamental tenet known as the uniform hashing
+assumption that underlies the potential success of a hashing application. Then, we consider two
+strategies for implementing hash tables–separate chaining and linear probing. Both strategies yield
+constant-time performance for search and insert under the uniform hashing assumption. We conclude
+with applications of symbol tables including sets, dictionary clients, indexing clients, and sparse
+vectors.
+
+Lecture 12: Undirected Graphs. We define an undirected graph API and consider the adjacency-matrix
+and adjacency-lists representations. We introduce two classic algorithms for searching a
+graph–depth-first search and breadth-first search. We also consider the problem of computing
+connected components and conclude with related problems and applications.
+
+Lecture 13: Directed Graphs. In this lecture we study directed graphs. We begin with depth-first
+search and breadth-first search in digraphs and describe applications ranging from garbage
+collection to web crawling. Next, we introduce a depth-first search based algorithm for computing
+the topological order of an acyclic digraph. Finally, we implement the Kosaraju-Sharir algorithm for
+computing the strong components of a digraph.
+
+Lecture 14: Minimum Spanning Trees. In this lecture we study the minimum spanning tree problem. We
+begin by considering a generic greedy algorithm for the problem. Next, we consider and implement two
+classic algorithms for the problem–Kruskal's algorithm and Prim's algorithm. We conclude with some
+applications and open problems.
+
+Lecture 15: Shortest Paths. In this lecture we study shortest-paths problems. We begin by analyzing
+some basic properties of shortest paths and a generic algorithm for the problem. We introduce and
+analyze Dijkstra's algorithm for shortest-paths problems with nonnegative weights. Next, we consider
+an even faster algorithm for DAGs, which works even if the weights are negative. We conclude with
+the Bellman-Ford-Moore algorithm for edge-weighted digraphs with no negative cycles. We also
+consider applications ranging from content-aware fill to arbitrage.
+
+Lecture 16: Maximum Flow and Minimum Cut. In this lecture we introduce the maximum flow and minimum
+cut problems. We begin with the Ford-Fulkerson algorithm. To analyze its correctness, we establish
+the maxflow-mincut theorem. Next, we consider an efficient implementation of the Ford-Fulkerson
+algorithm, using the shortest augmenting path rule. Finally, we consider applications, including
+bipartite matching and baseball elimination.
+
+Lecture 17: Radix Sorts. In this lecture we consider specialized sorting algorithms for strings and
+related objects.
+
+We begin with a subroutine to sort integers in a small range. We then consider two classic radix
+sorting algorithms–LSD and MSD radix sorts. Next, we consider an especially efficient variant, which
+is a hybrid of MSD radix sort and quicksort known as 3-way radix quicksort. We conclude with suffix
+sorting and related applications.
+
+Lecture 18: Tries. In this lecture we consider specialized algorithms for symbol tables with
+string keys. Our goal is a data structure that is as fast as hashing and even more flexible than
+binary search trees. We begin with multiway tries; next we consider ternary search tries. Finally,
+we consider character-based operations, including prefix match and longest prefix, and related
+applications.
+
+Lecture 19: Substring Search. In this lecture we consider algorithms for searching for a substring
+in a piece of text. We begin with a brute-force algorithm, whose running time is quadratic in the
+worst case. Next, we consider the ingenious Knuth-Morris-Pratt algorithm whose running time is
+guaranteed to be linear in the worst case. Then, we introduce the Boyer-Moore algorithm, whose
+running time is sublinear on typical inputs. Finally, we consider the Rabin-Karp fingerprint
+algorithm, which uses hashing in a clever way to solve the substring search and related problems.
+
+Lecture 20: Regular Expressions. A regular expression is a method for specifying a set of strings.
+Our topic for this lecture is the famous grep algorithm that determines whether a given text
+contains any substring from the set. We examine an efficient implementation that makes use of our
+digraph reachability implementation from Lectures 1 and 2.
+
+Lecture 21: Data Compression. We study and implement several classic data compression schemes,
+including run-length coding, Huffman compression, and LZW compression. We develop efficient
+implementations from first principles using a Java library for manipulating binary data that we
+developed for this purpose, based on priority queue and symbol table implementations from earlier
+lectures.
+
+Lecture 22: Reductions. In this lecture our goal is to develop ways to classify problems according
+to their computational requirements. We introduce the concept of reduction as a technique for
+studying the relationship among problems. People use reductions to design algorithms, establish
+lower bounds, and classify problems in terms of their computational requirements.
+
+Lecture 23: Linear Programming. The quintessential problem-solving model is
+known as linear programming, and the simplex method for solving it is one of
+the most widely used algorithms. In this lecture, we give an overview of this
+central topic in operations research and describe its relationship to
+algorithms that we have considered.
+
+Lecture 24: Intractability. Is there a universal problem-solving model to which
+all problems that we would like to solve reduce and for which we know an
+efficient algorithm? You may be surprised to learn that we do not know the
+answer to this question. In this lecture we introduce the complexity classes P,
+NP, and NP-complete; pose the famous P = NP question; and consider implications
+in the context of algorithms that we have treated in this course.
+
+-- 27 - https://see.stanford.edu/Course/CS106b
+Lecture 1
+Topics: About the CS106 Series at Stanford, The CS106 Philosophy, Why take CS106B?, Logistics of the
+Course, Introducing C++
+
+Lecture 2
+Topics: Similarity between C++ & Java: - syntax - variable types - operators - control structures,
+Looking at an Example C++ code: - comment, #include Statements, Global Declarations (constant),
+Declaring a Function Prototype, The main() Function, Decomposed Function Definition, Example Live
+Coding: To Calculate the Average, for loop -> a while : Another Purpose of the Same Code, C++ User
+Defined Data Types: -enums – records, C++ Parameters Passing: -pass by value - pass by reference
+
+Lecture 3
+Topics: C++ Libraries - Standard Libraries, CS106 Libraries, CS106 random.h Library, C++ String
+Type, Operations on String Type, String Class' Member Functions, C++ string vs Java String, Live
+Example Code : Working on Strings, CS106 strutils.h Library, C++ String vs C String, Concatenation
+Pitfall (C++ vs C string cont.), C++ Console I/O
+
+Lecture 4
+Topics: C++ Console I/O, C++ File I/O, Stream Operations, Live Example Coding : Working with Files,
+Live Coding Continuation: Function to Operate on the Opened File Stream, Passing the File Stream
+by Reference, Error Function, Class Libraries OO Features, Why OO is So Successful, CS106 Class
+Library, CS106: Scanner Library, Scanner Client Interface, Client Use of Scanner, Container Classes,
+Template Containers, Vector Interface
+
+Lecture 5
+Topics: Client Use of Templates, Vector Class, Vector Client Interface, Client Use of Vector,
+Type-safety in Templates, Grid Class, Grid Client Interface, Client Use of Grid, Stack Class, Stack
+Client Interface, Queue Class, Queue Client Interface, Client Use of Queue, Nested Templates,
+Learning a New API, CS106B Library Documentation
+
+Lecture 6
+Topics: More Containers, Map Class, Uses of Map, Map Client Interface, Live Coding Example: Use
+of Map, More information on Maps, What’s Missing? Iterator Operation Through the Map, Iterating
+Over the Map, Set Class, Set Client Interface, Live Coding Example : Use of Set, Set Higher-level
+Operations, Why Set is Different
+
+Lecture 7
+Topics: Seeing Functions as Data: Specific Plot Functions, Generic Plot Function, Back to the Set,
+Live Coding Example: Use of Set with User Defined Data Types, Client Callback Function, Review
+of the Classes Seen,5 Using Nested ADTs (Abstract Data Types), Live Coding Example, Recursion,
+Recursive Decomposition
+
+Lecture 8
+Topics: Common Mistakes Stumbled Upon: 'I'terator, Common Mistakes Stumbled Upon: Concatenating
+Strings, Solving Problems Recursively, Functional Recursion, Example of Recursion: Calculating
+Raise to Power, Demo of "Raise to the Power Example" Through Live Coding, Mechanics of What’s Going
+to Happen in Recursion, More Efficient Recursion, Being Wary of Too Many Base Cases, Recursion &
+Efficiency, Example: Palindromes, Example: Binary Search, Binary Search Code Walk Through, Choosing
+a Subset; Choose Code
+
+Lecture 9
+Topics: Thinking Recursively, Procedural vs Functional – Recursion, Fractal Code, Live Demo: Fractal
+Example, Another Recursive Graphic: Mondrian Art, Random Pseudo-Mondrian and the Code, Hanois Towers
+: Classic Recursion Example, Tower Code, Live Demo, Permutations, Permute Code, Tree of Recursive
+Calls
+
+Lecture 10
+Topics: Refresh: Permute Code, Tree of Recursive Calls, Live Demo: Testing with Different Cases,
+Eliminating Duplicates, Subsets, Subset Strategy, Subset Code, Tree of RecursiveCalls: Subset,
+Exhaustive Recursion, Recursive Backtracking, Turning Recursive Permute to Backtracking, Permute ->
+Anagram Finder Code, Decision Problems: 8 Queens, Extension to N Queens
+
+Lecture 11
+Topics: Backtracking Pseudocode, Sudoku Solver, Sudoku Code, Cryptarithmetic, Dumb Solver, Smarter
+Solver, Looking for Patterns, Introduction to Pointers, Single Pointer Operations
+
+Lecture 12
+Topics: Pointer Movie, Pointer Operations: Code & Pointer Memory Diagrams, Pointer Basics, Pointer
+and Dynamic Arrays, Use of Pointers, Recursive Data, A Recursive Structure, Live Demo: Working with
+Linked List, Building the List
+
+Lecture 13
+Topics: Coding with Linked List, Printing the List, Using Recursion to Print List, De-allocating
+the Memory Used for the Linked List, Watch the Pointers: Prepend Function, Passing Pointers by
+Reference, Array vs Linked List, Insert in Sorted (order) Linked List, Insert in Sorted Order: Code,
+Recursive Insert
+
+Lecture 14
+Topics: Algorithm Analysis, Evaluating the Performance, Analysis of Codes: Statement Counts, Another
+Example (Statement Count Contd.), Comparing Algorithm, Big-O Notation, Big-O to Predict the Time of
+Execution, Best/Worst/Average Case, Analysis of Recursive Algorithms, Another Example : Towers of
+Hanoi, A Tabulation for Different Algorithms, Growth Patterns, Application of Algorithm Analysis to
+Sorting, Selection Sort, Selection Sort Code
+
+Lecture 15
+Topics: Selection Sort, Live Demo: Working/execution of the Code, Selection Sort Analysis, Insertion
+Sort Algorithm, Live Demo: Working/execution of Insertion Sort, Insertion Sort Analysis, Insertion
+vs Selection, Quadratic Growth of the Algorithm, Merge Sort, Merge Sort: Working/execution Demo,
+Merge Sort Code Explanation, Merge Sort Analysis, Quadratic vs Linear Arithmetic, Sort 'Race', Quick
+Sort Idea
+
+Lecture 16
+Topics: Partitioning for Quicksort, Quicksort Code Working/execution, Quicksort Code, Live Demo:
+Running Quicksort vs Merge Sort, Bad Split Example, Worst Case Split, What Input has Worst Case for
+Quick Sort, Live Demo: Running Quicksort vs Merge Sort, Different Input Scenarios, Strategy to Avoid
+Worst Case Split, Execution Time Tabulation, Towards Generic Functions: Swap, Function Template,
+Example Live Code, Template Instantiation and its Errors, Sort Template, Client Use of Sort Template
+
+Lecture 17
+Topics: Sort Template with Callback, Supplying the Callback Function, One Last Convenience: Default
+Callback Function, Why Object Oriented Programming, Class Division, Class Interface in ".h" File,
+Storage for Objects, Accessing Members of a Class, Class Implementation, Implementing Member
+Functions, Maintaining Object Consistency, Constructors of a Class, Destructors of a Class, Basic
+Thoughts on Object Design, Internal vs External Representation: Idea of Encapsulation, Better
+Representation, ADTs (Abstract Data Types)
+
+Lecture 18
+Topics: Abstract Data Types, Wall of Abstraction, Why ADTs?, Live Coding
+Example: Creating the Vector Class, Private Data Members, Growing Dynamically:
+Making Space at Runtime, Insert and Remove Functions, Templatizing the Class
+Created, Including the "template.cpp" - Why?
+
+Lecture 19
+Topics: Rules of Template Implementation, Explanation of the Working, Not Allow
+Member Wise Copy, InsertAt Function, Consequences of Contiguous Memory Being a
+Disadvantage, Stack Class, The Member Function Definitions, Midterm Post Mortem
+
+Lecture 20
+Topics: Live Coding: Recap of the Vector-based Implementation for Stack, Linked List Implementation
+for Stack, Live Coding: Linked List Implementation for Stack, Analyzing Push/pop Functions, Queue
+Implementation, Live Coding: Queue Implementation, Alternative Implementation, Text Editor Case
+Study, Buffered Class Interface and Buffer Layered on Vector, Live Coding: Text Editor, Evaluate
+Vector Buffer, Buffer Layered on Stack, Live Demo, Compare Implementations, Buffer as Linked List
+
+Lecture 21
+Topics: Buffer: Vector vs Stack, Buffer as Linked List, Cursor Design, Use of Dummy Cell, Linked
+List Insert/delete, Linked List Cursor Movement, Compare Implementation, Doubly Linked List, Compare
+Implementation, Space Time Trade Off, Implementing Map, Simple Map Implementation: Vector, Map as
+Vector : Performance Implication, A Different Strategy
+
+Lecture 22
+Topics: Map as Vector, A different Strategy: Binary Search Tree, Trees in General, Binary Search
+Tree for Numbers, Operating on Trees, Tree Traversals at Work, Implementing Map as Tree, Map -
+getValue(), Important Syntactical Advice, Adding to a BST, Trace treeEnter(), Passing Nodes by
+Reference, Evaluate Map as a Tree, Impact of the Height of the Tree, Degenerate Trees, What to do
+About Unbalanced Trees?
+
+Lecture 23
+Topics: Pathfinder Demo, Graphs: Examples, Graphs: Explanation, Implementation Strategies, Graph
+Representation in C++, Nodes and Arcs in C++, Graph Traversals, DFS - (Depth First Search), Trace
+DfS, BFS - (Breadth First Search), Trace BFS, Graph Search Algorithms, Weighted arcs
+
+Lecture 24
+Topics: Compare Map Implementations, Hashtable Idea, Hash Functions, Hash Collisions, Live Demo:
+Hashing, Live Coding: Hashing, Hashing Idea : Example in Real World, Hash Table Performance, Compare
+Map Implementations, Hashing Generic Types, Implementing Set
+
+Lecture 25
+Topics: Lexicon Case Study, Lexicon as Sorted Vector, Lexicon as BST, Lexicon as Hash Table, Summary
+so Far, Noticing Patterns/repetitions in the Words, Letter Trie, Lexicon as Trie, Dynamic Array of
+Children, Flatten Tree into Array, Exploiting Prefixes and Suffixes, DAWG: Directed Acyclic Word
+Graph, Lexicon as DAWG, The Final Result, Cool Facts about the DAWG
+
+Lecture 26
+Topics: Final Showdown, Thinking About Design, Runtime Performance, Memory Used, Code Complexity,
+Making Tradeoffs, Array vs Vector, Stack/Queue vs Vector, Set vs Sorted Vector, Pointer-based vs.
+Contiguous Memory, CS106B MVPs, Pointers, To Remember Years from Now, After CS106B, considering.cs
+
+Lecture 27
+Topics: About the C++ Language, Quick History of C++, C++ Philosophy, C++ Without genlib.h,
+A Working genlib.h Replacement, Other CS106 Headers, strutils.h, simpio.h, random.h,
+graphics.h/extrgraph.h, What about ADTs?, Standard Template Library, STL Algorithms, Language
+Features, Operator Overloading, What Next?
+
+-- 22 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/calender/
+Lecture 1: Matrix Multiply: A Case Study
+Lecture 2: Bit Hacks
+Lecture 3: Basic Performance Engineering
+Lecture 4: Computer Architecture and Performance Engineering
+Industry Mentor (MITPOSSE) Overview
+Lecture 5: Performance Engineering with Profiling Tools
+Lecture 6: C to Assembler
+Lecture 7: Memory Systems and Performance Engineering
+Lecture 8: Cache-Efficient Algorithms
+Lecture 9: Cache-Efficient Algorithms II
+Lecture 10: Dynamic Storage Allocation
+Lecture 11: What Compilers Can and Cannot Do
+Lecture 12: Multicore Programming
+Lecture 13: Parallelism and Performance
+Lecture 14: Analysis of Multithreaded Algorithms
+Lecture 15: Nondeterministic Programming
+Lecture 16: Synchronizing without Locks
+Lecture 17: Performance Issues in Parallelization
+Lecture 18: Primer on Ray Tracing Techniques
+Lecture 19: How TokuDB Fractal Tree Indexes Work
+Lecture 20: Distributed Systems
+Lecture 21: Quiz 2 Review
+Lecture 22: A Tale of 10 Bugs: Performance Engineering at VMware

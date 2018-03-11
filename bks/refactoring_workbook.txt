@@ -1,0 +1,25 @@
+-- Refactoring Workbook by William C. Wake
+
+-- book
+
+--- Refactoring tools
+http://walkmod.com/#installation
+https://www.sonarqube.org/
+http://fb-contrib.sourceforge.net/
+http://autorefactor.org/
+http://jastadd.org/web/extendj/refactoring.php
+
+-- Catalog
+https://refactoring.com/catalog/
+
+-- What needs to be fixed
+https://refactoring.guru/refactoring/smells
+-- How to fix
+https://refactoring.guru/refactoring/techniques
+-- Refactoring workbook
+https://www.safaribooksonline.com/library/view/refactoring-workbook/0321109295/ch06.html
+
+-- Why to refactor?
+-- What are the problems?
+-- Is it necessary?
+

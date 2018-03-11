@@ -1,9 +1,0 @@
-## Backtrack/ Recursion
-
--Skiena
--Stanford
--Princeton
--MIT
-
-
-

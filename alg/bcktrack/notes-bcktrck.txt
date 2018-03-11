@@ -1,0 +1,57 @@
+## Recursion, Backtrack, Pruning
+
+solving the problem with recursion is of 2 types
+
+1. functional - while functional returns the updated value
+2. procedural - we modify the values and do not return a nython
+
+In case of procedural, we do tend to think in terms of global variables
+And this is harmful pattern and must be avoided the use case should be like making any drwaing like famous mondarine
+
+It is also the brutre force with famous 3 step algorithm,
+1. explore
+2. choose
+3. Unexplore
+
+Use of functional - eg. find only 1 unique solution to backtracking
+
+We can use global for debugging pupose to idenity how many times function is invoked and we can determine the issue also we can keep trakc of runtime of problems
+Use this emprical evaluation we can use oeis.org to determine what kind of sequence it is and how long will it take also we can use graph to plot these values.
+
+It is also consist of recursion with finding the
+1. Base case
+2. Recursive case
+3. Use of leap of faith
+4. Avoid arms length
+5. Minmize the time complexity by careful observation
+
+And for analysis we can use famous counting techinque used in the probabilty for example
+1. Deriving the counting formula (n C k) -
+ 2 choices 1. either chose or not choose
+2. Famous analysis techinique is to drwa the decision tree and this decision tree will have the values as the states and its width is the number of choices whil depth is the limit of the sample set
+
+We can form the configuration where we will have choices as the width and depth is the the terminating ocndition
+Pruning is the way to reduce the search space and search space is formed with width and choices . each node represent the function
+1. How we model the problem as recusion or the backrcikng
+2. how we define or configure our choiuces
+3. how to iterate over choices
+4 . Intelligenlty defing the chonces is the key to solveing the problem and it saves a lot of time
+
+Some examples
+1. Print binary/decmimal
+2. Fib, counting or pascale trainagle
+3. generate the subset
+4. create the string permutation
+
+How to use cpp - stnfrd std lib
+1. To debug
+2. To draw the result
+3. Add timer
+
+4. Another famous is the graph libranry with BFS, DFS and the dijkstra's algotithm how we explore the paths
+
+-Skiena
+-Stanford
+-Princeton
+-MIT
+

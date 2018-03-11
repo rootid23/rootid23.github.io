@@ -1,0 +1,68 @@
+-- Major steps in the interview process
+Only 1 mantra - Practice, Practice and Practice
+
+1. Self introduction
+-- Soft skill
+  V/S technical skills
+  It's Importance in career growth and leadership
+  Presenting solution to audience
+
+2. Resume
+  Task vs Achievement oriented
+  Proof read
+  Must be company specific
+
+3. Coding interview
+  6 steps process
+    Ask a lot of relevant questions (1)
+    exemplify the problem (2)
+    Build solution, Test w/ normal and edge case, Iterate and design (3,4,5)
+    Implement the code (6)
+
+4. In person interview
+  How to present your solution
+  -- STAR technique
+    S,T - Present the problem
+      Pitfall 1: Mixing the problem and the solution
+      Pitfall 2: Pitching to the wrong audience
+    A,R - Explain your solution (must be simple, Use visual aids AMAP)
+      Pitfall 1: "In the Weeds" --> Egoist
+      Pitfall 2: The Chronology, or "What I did last summer"
+  Maintain eye contact
+  Ack audience questions, clarify it
+  Don't use technical jargon i.e. In the weeds
+  Explain your role in the group and present how well you work in the team.
+
+-- 3 problems
+  1. Stereotype threat - Harvard vs Hard-work
+  2. Imposter syndrome - Students from Ivy league
+  3. Growth mindset - Practice, Practice and Practice.
+
+-- How to practice
+  1. Record your call, video
+  2. Do regular Skype Interviews
+  3. Review it
+
+-- Some useful white board tips
+  1. Write big
+  2. Keep space btwn LOC
+  3. Try to use legible letters e.g. Do not use i/j
+  4. Give meaningful names to method/classes
+  5. Practice
+
+--
+  1. Less is more
+  2. If you don't care about your problem no one cares.
+  3. Don't panic.
+  4. Normalize your breath. It is different from deep breath.
+
+--- Employer Evaluation questions
+  How did the candidate analyze the problem?
+  Did the candidate miss any special or edge cases?
+  Did the candidate approach the problem methodically and logically?
+  Did the candidate ask clarifying questions when they were stuck?
+  Does the candidate have a strong foundation in basic computer science concepts?
+  Did the candidate produce working code? Did the candidate test the code?
+  Is the candidate’s code clean and easy to read and maintain?
+  Can the candidate explain their ideas clearly?
+  Is the candidate pleasant to work with?
