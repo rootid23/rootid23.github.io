@@ -1,0 +1,13 @@
+
+-- Economy of scale
+1. Open files quickly
+find . -name "*.pdf" > meta.out , gx
+
+2. Open all video at once
+find . -name "*mp4" -type f -exec /Applications/VLC.app/Contents/MacOS/VLC --playlist-autostart --playlist-tree -f '{}' +
+
+3. 10K-X overview (fft-py/bin)
+time ffmpeg -i $FNAME -filter:v fps=fps=1/60 $PWD/ffmpeg_%0d.png
+
+4. Use Downloders
+yotube-dl,coursera-dl,ud-dl
