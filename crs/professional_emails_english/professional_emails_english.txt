@@ -1,0 +1,31 @@
+4 types of email
+  1. Introduction
+  4. Announcement
+  3. Request
+  4. Apology
+
+Email template
+  1. Subject line - brief,clear and up to 3-5 words/25-30 chars
+  2. Greeting - Must be addresses
+  3. Email text - Must be at most 2-3 paragraphs, Consist of 3 parts
+    1. Intro - Who,What -> Controlling Idea
+    2. Development - Wh-questions, Journalist style writing
+    3. Conclusion
+  4. Closing - Appreciation - Best,Regards
+
+TODOs
+  1. Use professional email
+  2. Consider the culture(High context v/s Low context), Age and Gender
+  3. Always read email twice before sending
+
+Writing style TODOs
+  1. Use self blaming eg. perhaps, I missed
+  2. Avoid adverb and adjectives
+  3. Check punctuation and capitalization eg. FANBOY rule - comma before them
+  4. Use of I'm sorry about --(small slip up) ,that -- (100% your fault) ,if -- (Not sure about your mistake)
+  5. Use action verb in subject line
+  6. Use active voice
+  7. Appreciation - sincere thanks, or I appreciate it.
+    Thank you for your + Noun
+    I appreciate your + Noun
+  8. Use polite version - please, could, would, would you mind,
