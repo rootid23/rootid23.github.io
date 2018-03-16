@@ -1,0 +1,61 @@
+-- Start with Why: How Great Leaders Inspire Everyone to Take Action  by Simon Sinek
+
+-- Quotes
+  Working hard for something we don't care about is called stress: Working hard for something we love is called passion.
+  two ways to influence human behavior: you can manipulate it or you can inspire it.
+  If I had asked people what they wanted, he said, they would have said a faster horse.
+
+-- Main Idea
+  - Golden circle - Why -> How -> What (Long lasting success/Sustainable Business model)
+  - Leaders qualities - need followers
+  - People don't buy WHAT you do, they buy WHY you do - Apple products (Never argue with them)
+  - Tipping point tips, Law of diffusion, average, market penetration 10-15% >
+  - Celery Test - Focus on 1 thing to Scale upto 10x
+  - Why goes fuzzy, focus on WHAT
+  - Why - CEO, How - CTO,CFO, What - Employee
+
+  - Brain participation - Limbic (Emotional), Neocortex(Words, Logical, Rational)
+    Why - (Limbic)
+    How, What - (Neocortex)
+    Decision impact
+    - Use Limbic -> Higher quality decisions
+    - Use Neocortex -> Overthinking -> lower quality decisions
+
+-- Other side of the world
+  Drive one time result
+    Price, Promotion, Fear, Aspiration, Peer pressure
+  - Skip why - Follow law of avg - 10% success
+
+-- Engineering solution (Japanese assembly line) vs Decide by the data (US mfg)
+  - Why door fit by design not by default
+
+-- Stories
+  MLK (I've dream)
+  Steve Jobs and Woznick (Challenge the status quo)
+  South west - Champiion of common man
+  Wright bros vs Sam Langley
+  Star bucks - third  place
+  Walmart - Serve employee, community and customers
+
+-- Great leaders
+  - Inspire people -> followers
+  - Charisma vs Energy (Bill Gates vs Steve Balmer)
+  - Always listen
+  - Achievement v/s Success
+  - Verb (Just do it) v/s Noun
+  - Drive by Passion not by Rationally
+  - Perspective change - Build Cathedral not Laying bricks
+
+-- Hiring
+  - Give 'Em a Cathedral - Hire for attitude not for skill
+
+-- Tipping point
+  - Law of diffusion of innovation - Normal distribution
+    (Innovators-2.5% , Early adapters-13.5%, Early majority-34%, Late majority-34%, Laggard-16%)
+  - Scale to 10X - The Celery Test - Buy only Rice,Milk and Celery not M&M
+                 - Don't to do 2 many things articulate Why and Focus on it.
+
+-- Naked brain  - Richard Restak M.D.
+-- The Tipping Point - Malcolm Gladwell
+
+vim: foldmethod=expr

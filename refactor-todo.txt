@@ -1,0 +1,72 @@
+Add Parameter
+Change Bidirectional Association to Unidirectional
+Change Reference to Value
+Change Unidirectional Association to Bidirectional
+Change Value to Reference
+Collapse Hierarchy
+Consolidate Conditional Expression
+Consolidate Duplicate Conditional Fragments
+Convert Procedural Design to Objects
+Decompose Conditional
+Duplicate Observed Data
+Encapsulate Collection
+Encapsulate Downcast
+Encapsulate Field
+Extract Class
+Extract Hierarchy
+Extract Interface
+Extract Method
+Extract Subclass
+Extract Superclass
+Form Template Method
+Hide Delegate
+Hide Method
+Inline Class
+Inline Method
+Inline Temp
+Introduce Assertion
+Introduce Explaining Variable
+Introduce Foreign Method
+Introduce Local Extension
+Introduce Null Object
+Introduce Parameter Object
+Move Field
+Move Method
+Parameterize Method
+Preserve Whole Object
+Pull Up Constructor Body
+Pull Up Field
+Pull Up Method
+Push Down Field
+Push Down Method
+Remove Assignments to Parameters
+Remove Control Flag
+Remove Middle Man
+Remove Parameter
+Remove Setting Method
+Rename Method
+Replace Array with Object
+Replace Conditional with Polymorphism
+Replace Constructor with Factory Method
+Replace Data Value with Object
+Replace Delegation with Inheritance
+Replace Error Code with Exception
+Replace Exception with Test
+Replace Inheritance with Delegation
+Replace Magic Number with Symbolic Constant
+Replace Method with Method Object
+Replace Nested Conditional with Guard Clauses
+Replace Parameter with Explicit Methods
+Replace Parameter with Method
+Replace Record with Data Class
+Replace Subclass with Fields
+Replace Temp with Query
+Replace Type Code with Class
+Replace Type Code with State/Strategy
+Replace Type Code with Subclasses
+Self Encapsulate Field
+Separate Domain from Presentation
+Separate Query from Modifier
+Split Temporary Variable
+Substitute Algorithm
+Tease Apart Inheritance

@@ -1,9 +1,22 @@
-https://landing.google.com/sre/book/chapters/production-environment.html
-https://landing.google.com/sre/book.html
-https://mirror-vm.apache.org/~henkp/trust/
-https://www.safaribooksonline.com/library/view/java-concurrency-in/0321349601/ch06.html
+-- voice
+  - Use of diaphargm
+  - tonug twitsters - http://www.smart-words.org/tongue-twisters.html
+  - Horizontal vs vertical speaking
+  - Taostmaster increase voice
+  - vocal excersie
+     https://www.youtube.com/watch?v=AamZjke8MY0
+  - pitch,variety and articulation
+    https://www.youtube.com/watch?v=1m_gtCCHXM0
+  - voice improvement
+    http://www.mindsetmedia.com.sg/
 
-discrete struct
+- https://landing.google.com/sre/book/chapters/production-environment.html
+- https://landing.google.com/sre/book.html
+- https://mirror-vm.apache.org/~henkp/trust/
+- https://www.safaribooksonline.com/library/view/java-concurrency-in/0321349601/ch06.html
+
+-- Discrete struct
+---- Discrete struct
 http://home.iitk.ac.in/~arlal/book/mth202.pdf
 
 https://www.safaribooksonline.com/library/view/JOEL+ON+SOFTWARE:+And+on+Diverse+and+Occasionally+Related+Matters+That+Will+Prove+of+Interest+to+Software+Developers,+Designers,+and+Managers,+and+to+Those+Who,+Whether+by+Good+Fortune+or+Ill+Luck,+Work+with+Them+in+Some+Capacity/9781590593899/Chapter04.html#CHP-4-FN-9
@@ -18,22 +31,23 @@ Why it works?
 ### Book summary
 http://www.jfdperfsolutions.com/
 
-### Conference security ### 
+### Conference security ###
 https://defcon.org/
 https://iacr.org/
 
-### Subway hacks ### 
+### Subway hacks ###
 http://tech.mit.edu/V128/N30/subway/Defcon_Presentation.pdf
 
-### Maths ### 
+### Maths ###
 http://www.sagemath.org/
 
-### Book review ### 
+### Book review ###
 https://owl.english.purdue.edu/owl/resource/704/1/
 
 https://www.getabstract.com
 
 https://blog.hidimensional.com/
+
 ### Grok system design
 https://www.educative.io/collection/5668639101419520/5649050225344512
 
@@ -48,3 +62,5 @@ Specialties
 Experienced in infrastructure for deep Machine Learning for YouTube’s Emmy award-winning recommendation system; Android development for new buttery-smooth user experience on YouTube on 2G networks; Algorithms and infrastructure for Search Ads at Google; Computational geometry algorithms, software consulting, and research.
 
 Developing and implementing algorithms for large data sets that allow principled trade-offs between accuracy and efficiency. Developing geometric algorithms and using geometric insight to exploit previously unknown connections between problems in diverse areas including theory and practical applications.
+
+vim: foldmethod=expr
