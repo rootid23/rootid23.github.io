@@ -1,4 +1,4 @@
--- Start with Why: How Great Leaders Inspire Everyone to Take Action  by Simon Sinek
+-- Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek
 
 -- Quotes
   Working hard for something we don't care about is called stress: Working hard for something we love is called passion.

@@ -36,7 +36,6 @@ endfunc
 " v:lnum : read only variable , a:lnum - a -arg,cannot change it
 " http://learnvimscriptthehardway.stevelosh.com/chapters/24.html
 func! Foldexpr_text(lnum)
-
   let l1 = getline(a:lnum)
   if l1 =~ '^\s*$'
     return '='
@@ -48,9 +47,10 @@ func! Foldexpr_text(lnum)
   else
     return '='
   endif
-
 endfunc
 
 
 "setlocal foldexpr=Foldexpr_markdown(v:lnum)
 setlocal foldexpr=Foldexpr_text(v:lnum)
+
+" vim: foldmethod=indent

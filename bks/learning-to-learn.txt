@@ -1,4 +1,3 @@
--Buy book and get subscription
 - Course Summary
 https://github.com/dnc1994/Notes-on-Learning-How-to-Learn
 https://pastebin.com/JNbGxvpQ
@@ -23,7 +22,7 @@ https://www.psychologytoday.com/blog/ulterior-motives/201302/positive-fantasies-
 https://apps.ankiweb.net/
 https://en.wikipedia.org/wiki/Leitner_system - Index cards
 
--Use of Interleaving 
+-Use of Interleaving
 http://www.learningscientists.org/blog/2016/8/11-1
 
 -pomodoro clock
@@ -55,7 +54,7 @@ https://alexvermeer.com/wp-content/uploads/howtogetmotivated-7100x5000.png
 -Chunking
 Chunking is about forming small mental patterns of meaning relating the material learned to a greater context. These chunks are committed to memory and are easy to retrieve when needed. They unite scattered information into retrievable conceptual units of meaning, so that we can think and perform actions smoothly without going into all the details each time.
 
--Difffuse mode 
+-Difffuse mode
 Play music, Meditation, Wash Face with cold water
 
 -Writing importance
@@ -104,7 +103,7 @@ http://www.tomighty.org/
 https://selfcontrolapp.com/
 
 "The One Thing" by Gary Keller.
-Medidation 
+Medidation
 https://www.coursera.org/learn/happiness/lecture/FWNaY/week-6-video-10-the-7th-happiness-exercise-the-presence-practice
 http://paulgraham.com/procrastination.html
 The Power of Habit" by Charles Duhigg
@@ -159,6 +158,6 @@ https://zenhabits.net/rules/
 - The power of 10
 www.youtube.com/watch?v=vRjGarICal4
 
-- Good and Bad Study Habits 
+- Good and Bad Study Habits
 http://www.cwsei.ubc.ca/Files/EOS/EOSSEITimes_7.04-studyhabits.pdf
 http://www.math.toronto.edu/nhoell/10rules-of-studying.pdf

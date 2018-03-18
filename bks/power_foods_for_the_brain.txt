@@ -1,0 +1,80 @@
+-- Power Foods for the Brain by Neal Barnard
+
+-- Reduce risk of Alzheimer and mild cognitive impairment by following the simple plan.
+
+---- Alzheimer reasons
+    1. Gene  - Apoe Epl4
+    2. Increased Amyloid deposition in the brain - (Protein)
+
+---- Plan
+  1. Diet
+    Fruit -> Color -> Blueberry, Tomato
+    Grain -> Rice, Pasta, Corn and Sweet potato
+    Vegetables -> Leafy e.g. ,
+    Legumes -> Peas, Beans, Lentil
+
+  2. Exercise - Reduces the shirking of hippocampus
+    - Improves heart rate - Improving blood flow to brain
+    - Better sleep
+    - Increases HDL (Good Cholesterol)
+    Aerobic - Walk, Running - Lower bound(40Min/Week)
+    Resistance - Push Ups
+    Flexibility - Yoga
+    Mental - Improves Brain circuit->Connection->Strong memory association
+           - Lumocity.com, FitBrains.com, How to remember every name very time
+
+  3. Sleep
+   Late night wakeup -> Increases Beta-Amyloid
+
+  4. Avoid harmful diet (Metal, Cholesterol, Fat)
+    ? Zn, AL -> Sources -> Canned drinks and food
+    Sol - Avoid canned foods/drinks
+    ? Fe and Cu -> Oxidation -> Free Radicals
+    Sol - Use Antioxidant diet(Vitamin C/E) -> (Nuts- Wal,Hazel, Seeds, blueberry)
+        - Neutralizes free radicals
+        - For Fe, use Spinach-> Non Heme Iron -> Body absorbs it as needed
+                  use Meat -> Heme Iron -> Body has to absorb it
+
+    ? Cortisol -> Steroid hormone -> released in Fight/Flight situation
+    Impact -> Stress increase and memory loss
+
+    Coffee -> Reduces slow wave sleep
+    H20 -> Spring preferred do not contain metals
+
+    Protein Source -> Tofu /Soy products (12% of total daily calorie)
+    Carbohydrates -> Brain runs on it
+
+    Neurotransmitters
+    Increase alertness
+    Protein ->  Amino acids -> Dopamine -> Typtophan -> Induces sleep
+    ll'y Starch/Carb -> Induces sleep
+    Starch -> Increases Insulin -> Reduces Amino acis
+    Serotonin -> Exposure to bright light, Nuts and seeds, Pineapples, Tofu
+    Dopamine -> Induces motivation (Aha moment)
+        Lack -> Increase Procrastination -> Avoid Risk
+
+    Memory improvement
+    DHA (Docosahexaenoic acid) - Omega-3 fatty acid
+    Omega-6 -> Omega-3 -> DHA (Conversion inside body)
+    (Corn/Sunflower oil, SoyBean) -> (Walnut, flax oil)
+
+    Vitamins
+    B6,B12 -> Leafy Vegetables
+    D -> Sun
+    E -> Nuts, Seed
+    Omege3 ->
+
+    Choose low GI foods like Sweet Potato, Banana
+    Choose brown rice - Has nutrients in bran layer
+
+--- Pulse/Heart rate - Different from Blood pressure(Systolic vs Diastolic)
+  - Ideal =  Age - 220
+
+  Use your perfect memory - Tony Buzan
+  Remember Every Name Every Time - Benjamin Levy
+
+TODO : USDA Calorie counting (Daily Requirements of Calorie, Protein)
+-- Prefer shelf stable Tofu
+
+
+vim: foldmethod=expr
