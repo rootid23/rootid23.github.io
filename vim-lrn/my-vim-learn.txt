@@ -1,0 +1,18 @@
+-- Brandon Liu (Vim Seminar)
+  - https://www.youtube.com/watch?v=pksX5m8D1B4
+
+  - Vim Philosophy
+    1. Modal editing
+        - Different modes - I,N,V,C,R - Replace
+    2. Operators and Motion (b - word begin, $ - end)
+       -- Text Objects (w, W, t, )|> - Matched right parenthesis
+
+    Plugins -
+    1. Syntactic
+    2. Ctrl+P
+
+    Find and replace
+     n - Search next, N - Search Previous , /|?
+
+
+

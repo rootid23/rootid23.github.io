@@ -53,4 +53,3 @@ Author cluster developers into 3 categority
 2. Need attention
 3. 10X
 
-smart-and-gets-things-done
