@@ -1,0 +1,59 @@
+-- Code Smells Within Classes
+Comments
+Long Method
+Long Parameter List
+Duplicated code
+Conditional Complexity
+Combinitorial Explosion
+Large Class
+Type Embedded in Name
+Uncommunicative Name
+Inconsistent Names
+Dead Code
+Speculative Generality
+Oddball Solution
+Temporary Field
+
+-- Code Smells Between Classes
+Alternative Classes with Different Interfaces
+Primitive Obsession
+Data Class
+Data Clumps
+Refused Bequest
+Inappropriate Intimacy
+Indecent Exposure
+Feature Envy
+Lazy Class
+Message Chains
+Middle Man
+Divergent Change
+Shotgun Surgery
+Parallel Inheritance Hierarchies
+Incomplete Library Class
+Solution Sprawl
+
+Divergent change occurs when one class is commonly changed in different ways for different reasons
+To clean this up you identify everything that changes for a particular cause and use Extract Class (149) to put them all together.
+
+Feature envy (Keep operation and data at same location REctagle,getarea, width, length)
+ Methods that make extensive use of another class may belong in another class. Consider moving this method to the class it is so envious of.
+
+Middle Man  If a class is delegating all its work, why does it exist? Cut out the middleman
+
+Shotgun Surgery     If a change in one class requires cascading changes in several related classes,
+
+Data Clumps
+Sometimes different parts of the code contain identical groups of variables (such as parameters for connecting to a database). These clumps should be turned into their own classes.
+
+Refused Bequest (No answer for subclass -> Remove)
+Refused Bequest     If you inherit from a class, but never use any of the inherited functionality, should you really be using inheritance?
+
+Parallel Inheritance Hierarchies    Every time you make a subclass of one class, you must also make a subclass of another. Consider folding the hierarchy into a single class.
+
+Message Chains  Watch out for long sequences of method calls or temporary variables to get routine data.
+Middle Man  If a class is delegating all its work, why does it exist? Cut out the middleman -> Failed Encapsulation
+
+Data Class  Avoid classes that passively store data
+A data class refers to a class that contains only fields and crude methods for accessing them (getters and setters). These are simply containers for data used by other classes. These classes do not contain any additional functionality and cannot independently operate on the data that they own.
+
+

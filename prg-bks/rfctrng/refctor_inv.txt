@@ -1,0 +1,29 @@
+INVERSE                                            < REFACTORING
+Remove Parameter                                   < Add Parameter
+Change Unidirectional Assocation to Bidirectional  < Change Bidirectional Association to Unidirectional
+Change Value to Reference                          < Change Reference to Value
+Change Bidirectional Association to Unidirectional < Change Unidirectional Association to Bidirectional
+Change Reference to Value                          < Change Value to Reference
+Extract Subclass                                   < Collapse Hierarchy
+Inline Class                                       < Extract Class
+Inline Method                                      < Extract Method
+Collapse Hierarchy                                 < Extract Subclass
+Remove Middle Man                                  < Hide Delegate
+Extract Class                                      < Inline Class
+Extract Method                                     < Inline Method
+Introduce Explaining Variable                      < Inline Temp
+Inline Temp                                        < Introduce Explaining Variable
+Move Field                                         < Move Field
+Move Method                                        < Move Method
+Replace Parameter with Explicit Methods            < Parameterize Method
+Push Down Field                                    < Pull Up Field
+Push Down Method                                   < Pull Up Method
+Pull Up Field                                      < Push Down Field
+Pull Up Method                                     < Push Down Method
+Hide Delegate                                      < Remove Middle Man
+Add Parameter                                      < Remove Parameter
+Rename Method                                      < Rename Method
+Replace Inheritance with Delegation                < Replace Delegation with Inheritance
+Replace Delegation with Inheritance                < Replace Inheritance with Delegation
+Parameterize Method                                < Replace Parameter with Explicit Methods
+Substitute Algorithm                               < Substitute Algorithm

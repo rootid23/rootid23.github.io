@@ -1,0 +1,9 @@
+remove_assignments_to_parameters
+replace_magic_number_with_symbolic_constant
+remove_record_with_data_class
+replace_type_code_with_subclasses
+consolidate_duplicate_conditional_fragments
+remove_control_flag
+add_parameter
+remove_parameter
+remove_setting_method

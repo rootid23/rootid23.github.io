@@ -4,7 +4,7 @@
 find . -name "*.pdf" > meta.out , gx
 
 2. Open all video at once
-find . -name "*mp4" -type f -exec /Applications/VLC.app/Contents/MacOS/VLC --playlist-autostart --playlist-tree -f '{}' +
+find . -name "*mp4" -type f -exec /Applications/VLC.app/Contents/MacOS/VLC --rate 2.5 --playlist-autostart --playlist-tree '{}' +
 
 3. 10K-X overview (fft-py/bin)
 time ffmpeg -i $FNAME -filter:v fps=fps=1/60 $PWD/ffmpeg_%0d.png

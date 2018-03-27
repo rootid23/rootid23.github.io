@@ -1,55 +1,85 @@
-Smart and Gets Things Done - Joel Spolsky
+-- Smart and Gets Things Done by Joel Spolsky
 
-Getting things done and smarter - only trait best developer has.
-Author put the formula for making the profit
-Best working conditions -> Best programmers-> Best Software -> More profit.
-With the asummption that software duplicatation costs no extra money.
-So how to hire the best programmater
-1. Some stats about the best programmer - 10x developers
-As Yale CS323 stat that best programmer finishes the project 10x much afster while there is no relation between time and quality of the code.
-Next is where to find them
-1. They will be never on the marker
-3. Attend famous conferences
-4. Make best use of time and develop best side projects
+-- Superstar developer traits/10X developer
+  Getting things done and smarter
+  Build lisp compiler on weekends for fun
+  Eg.
+  1. Brad Pitt -> High Salary -> Blockbuster movie
+  2. Brooke's law
+  3. Mediocre talent never hits high notes
 
-Next is resume slection
-1. Passion - side projects, tech nology
-2. communication - check the grammar
-3. Cluster them amartuer, professional or guru
+-- Profit formula for tech company
+  Best working conditions -> Best programmers -> Best Software -> More profit.
+  Why?
+  Software duplication costs no extra money.
+  So, Hire the best programmers
 
-How to do the phon interview
-1. Ask techinical - Basic fiz-bizz, later pointer - what is the size of pointer
-2. Politcal - If they are leading some effort , idenity theri role and acontribution and ask how they did that
-Onsite interview guide
-1. Treat them like samurai as they came to save you from enemy. Never keep them waiting it sends negative signal
+-- Where to find Superstars
+  1. They will be never on the marker
+  3. Attend famous conferences eg. WWDC Apple
+  4. Make best use of time and develop best side projects
+  5. Never put faith on the employee referral system as it will bring the bad developers.
+  6. Build community - To enter into beauty pageant 1. U must be beautiful 2. Enter into it
 
-How to update the working conditions
-1. Monitor choice
-2. How to choose the chairs - choose the best possible upto 800 USD
+-- Filtering
+  -- Resume selection
+    1. Passion - Side projects, technology stack, Brains - GPA? School?
+    2. Technology stack - Hard core Kernel/Embedded/Diversified?
+    2. Communication - Check for grammar
+    3. Cluster them as Amateur, Professional or Guru
 
-Impact of bad hire
-1. Direct : cost to compnay
-2. Indirect : demoralize best developers
+  -- Phone interview (Blink - Gladwell)
+    Ask
+    1. Technical - Basic fizz buzz -> pointer - What is the size of pointer?, Sole dev or Dev in the team
+    2. Political - If they are leading some effort , identify their role and contribution and ask how they did that
+    3. Design Q - DS for photoeditor -> Algo+DS (Meat+Potato) -> Done company homework(NPS/Site visit)
+    4. Coding - Speed Test
 
-How to handle the bad practices or developer
-1. USE rubber room tactic
+  -- On site interview guide
+    1. Treat them like samurai as they came to save you from enemy. Never keep them waiting it sends negative signal
 
-Mangement : How ot manage comany
-1. Command and control -
-Works best in defence but it tranaslate to Hit and run tactic .DEvelopers like autonomy
-2. Econ 101 - give them raise for good performance.
-After sometime developers will find the loopholes and will try to gain the adavantage of it
+-- Working conditions
+  1. Office space - (Private office/Cubicle/Open culture)
+  2. How to choose the chairs - choose the best possible up to 800 USD
+  3. Toys (Monitors LCD/CRT)
 
-3.Identity management scheme - in this scheme treat developers with respect communicate with them actual issue and give them rewards as necesary
+-- Impact of bad hire
+  1. Direct : cost to company
+  2. Indirect : demoralize best developers
 
+-- How to handle the bad practices or developer
+  1. Use rubber room tactic
 
+-- Management : How to manage company
+  1. Command and control - Hit and Run
+  Works best in defence but it tranaslate to Hit and run tactic .DEvelopers like autonomy
+  2. Econ 101 - give them raise for good performance.
+    Disadvantage -
+      After sometime they will find the loopholes and will try to gain the advantage of it
+  3.Identity management - Intrinsic motivation, Autonomy
+      Treat developers with respect communicate with them actual issue and give them rewards as necessary.
 
-How to keep them happy
+-- Best developers always hit high notes.
+- Cluster developers into 3 categories
+  1. Hopeless
+  2. Need attention
+  3. 10X
 
-Best developers always hit high notes.
-Nevre put faith on the employee referral system as it will bring the bad developers.
-Author cluster developers into 3 categority
-1. Hopelesss
-2. Need attention
-3. 10X
+-- Joel Test
+  1. Do you use source control?
+  2. Can you make a build in one step?
+  3. Do you make daily builds?
+  4. Do you have a bug database?
+  5. Do you fix bugs before writing new code?
+  6. Do you have an up-to-date schedule?
+  7. Do you have a spec?
+  8. Do programmers have quiet working conditions?
+  9. Do you use the best tools money can buy?
+  10 Do you have testers?
+  11 Do new candidates write code during their interview?
+  12.Do you do hallway usability testing?
 
+-- Score to choose company
+  12 = perfect, 11 = tolerable, 10 < Think twice
+
+vim: foldmethod=expr
