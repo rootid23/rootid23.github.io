@@ -1,0 +1,28 @@
+-- Coding
+  When in doubt, use brute force. - KT
+  If you can’t write it down in English, you can’t code it  - Peter Halpern
+  Avoid asymmetry -  Andy Huber
+  If the code and the comments disagree, then both are probably wrong.  If you have too many special cases, you are doing it wrong.
+  Get your data structures correct first, and the rest of the program will write itself.
+
+-- User interface
+  For 80 percent of all data sets, 95 percent of the infor- mation can be seen in a good graph.
+
+-- Debugging
+  Each new user of a new system uncovers a new class of bugs
+
+-- Performance
+  Don’t do it - Program Optimization
+  The average number of objects in a queue is the product of the entry rate and the average holding time - Liitle's law
+
+-- Documentation
+  When explaining a command, or language feature, or hardware widget, first describe the problem it is designed to solve
+  [One Page Principle] A (specification, design, procedure, test plan) that will not fit on one page of 8.5-by-l.1 inch paper cannot be understood.
+
+-- Manging software
+  [Brooks’s Law of Prototypes] Plan to throw one away, you will anyhow.
+  "It is faster to make a four-inch mirror then a six-inch mirror than to make a six-inch mirror."
+  Make it work first before you make it work fast
+  Whenever possible, steal code.
+  Plagiarism is the sincerest form of flattery.
+

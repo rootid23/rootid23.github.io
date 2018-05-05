@@ -1,0 +1,585 @@
+-- Know yourself
+  1. Understand what you have
+  2. Know what you’re missing
+  3. Plan ahead.
+
+  The Job Title: What Do You Want to Be When You Grow Up?
+
+  What Do You Need?
+    1. Money
+    2. Recognition and respect
+    3. Work/Life balance - 10-to-6
+
+  How Do You Enjoy Working?
+    1. Teamwork vs. independent work
+    2. Creating vs. maintaining.
+    3. Leading vs. joining
+
+  What Are You Good At?
+    1. Numbers
+    2. Writing and communication
+    3. Creativity
+    4. People skills
+
+-- Culture
+  Amazon (No innovation, Rapid pace) , Apple(Secretive) , Microsoft(Slow) vs Google (Nerdy)
+  -- Startup
+    Good
+      1. Diversity of skills
+      2. Leadership opportunities
+      3. Control and influence
+      4. Rapid results
+      5. High reward
+    Bad
+      1. Long hours
+      2. Unclear job description
+      3. Low pay
+      4. Limited credibility
+      5. Less mentorship
+    Ugly
+      1. Carrer Instability (Door knocking)
+
+-- Preparation 101 (Before interview and @Work)
+  TODOs
+  1. Develop a track record of achievement
+  2. Learn to write and speak - Creative writing
+  3. Emphasize depth over breadth
+  4. Become a leader
+  5. Find a mentor (or become a mentor)
+  6. Develop a tangible skill - Learn marketing, Finance
+  7. Learn about technology - Apps, IOT, Latest trends Alexa
+
+  -- @Work
+  1. Think broadly - See bigger picture
+  2. Be really, really good at what you do
+  3. Solicit feedback proactively. - Ask early feedback, never wait
+  4. Learn about other teams - Dentist inspection
+  5. Become a Generalist
+  6. Size Matters: Quantify Your Impact
+
+  -- In spare time
+  1. Launch a business
+  2. Write a blog - increase net presence - Markting - Mutliplier of talent
+  3. Start a club or organization
+
+-- Next opprtunity (Getting in the Door)
+  1. The Black Hole: Online Job Submission
+  2. Getting a Personal Referral
+  3. Make Yourself Known - Participate in tech blogs
+  4. Reach Out to Recruiters
+  5. Contributing Online
+    1. Answer questions.
+    2. Get involved with GitHub
+    3. Start a blog
+    4. Write guest blog post
+
+-- Resume
+  Six Hallmarks of a Powerful Resume
+  1. Accomplishment Oriented - should highlight what you did, not what you were supposed to do.
+    “gets things done.” + SMART
+  2. Responsibility oriented: “Analyzed new markets and explored potential entrance strategies for
+China division.”
+ - Accomplishment oriented: “Led entrance strategy for Foobar product in China, and successfully
+persuaded CEO to refocus division on the enterprise market, resulting in a 7 percent increase in
+profits”
+  Watch out for words like contributed to, participated in, or helped out with
+  2. Quantifiable Results
+  Original: “Implemented crash reporter and used results to fix three biggest causes of crashes.”
+  Newly quantified: “Implemented crash reporter and used results to fix three biggest causes of
+crashes, leading to a 45 percent reduction in customer support calls.”
+  3. Well Targeted
+  4. Universally Meaningful
+  5. Clean, Professional, Concise
+  6. Well Structured and Clear
+
+  TODOs
+    1. Spelling
+    2. Grammar
+    3. Margins - Your margins should ideally be one inch, but certainly no less than 0.75 inch.
+    4. Normal fonts. Use a standard font, like Times New Roman or Arial, and don’t use fonts smaller than
+    10 pt. Comic Sans is never acceptable.
+    5. Consistency
+    6. White space
+    7. No first person. Although it can be tough, avoid using I, me, or myself. Use the third person
+    throughout your reume, with the exception of the objective statement, where first person is more expected.
+
+  The Structure
+    1. The Objective
+    2. Summary (or Key Accomplishments)
+    3. Work Experience
+    4. Projects
+    5. Education
+    6. Skills
+    7. Awards and Honors
+
+-- Cover Letters and References
+  Three Types of Cover Letter
+  1. Solicited Cover Letter
+  2.Unsolicited Cover Letter/Cold Call Letter
+  3. Broadcast Letter
+
+  The Structure
+    Dear [Recruiter or Hiring Manager’s Name]:
+    I am interested in the [ job title] advertised on [web site
+    or other source]. With a strong background in [list of tangible skills], and [number of ] years of
+    experience in [area], I am confident that I can [general problem you can solve].
+    My qualifications include the following:
+     - [Desired Qualification #1]: [Proof that you have qualification #1]
+     - [Desired Qualification #2]: [Proof that you have qualification #2]
+     - [Desired Qualification #3]: [Proof that you have qualification #3]
+     - [Desired Qualification #4]: [Proof that you have qualification #4]
+    I would love to discuss this opportunity further. I will fol- low up within a [time frame] to
+    confirm that my application was received, and to schedule a time to talk further.
+    Sincerely, [Your Name]
+
+  -- Five Traits of a Strong Cover Letter
+    1. Tailored
+    2. Supported with Evidence
+    3. Structured and Concise
+    4. Simple, Direct Writing
+    5. Professional References
+
+-- Interview Prep and Overview
+
+  What employers are looking for?
+    1. Passion for technology.
+    2. Passion for the company
+    3. Do you know the company’s products? Do you use them? Why or why not? What would you improve?
+    4. Creativity
+    5. Initiative
+      How have you gone above and beyond? Have you started a blog?
+      A business? Organized a charity auction?
+    6. Getting things done + SMART
+    7. Intelligence
+
+  How to Prepare
+    1. Practice Your elevator Pitch
+      do you mumble during certain parts? Friends can also be useful here.
+      Where do they think you are we weakest and strongest?
+    2. Review Your Resume
+      Make sure you can explain the “what, how, and why.” - golden circle
+    3. Preparation Grid
+      1. Most Challenging
+      2. What You Learned
+      3. Influencing Someone
+      4. Conflict
+      5. Mistake
+
+    Do Your Homework
+      you’ll be able to forge stronger connections with your interviewers,
+      learn more in the process, and sometimes even predict interview questions.
+    Company research
+      What do they make, how do they make it, and how do they make money?
+      News
+      Competitors - NPS
+      Current and Former Employees - Use Twitter, Facebook, or your friends network
+      Culture -
+
+   Prepare Questions for employer
+      1. Genuine questions
+         How much of your day do you spend coding?
+         How many people are on the team?
+         What’s the break-down of different positions?
+         What are the biggest issues facing the team?
+         How does the decision process work?
+         Who makes the final call? Who drives the decisions?
+
+      2. Insightful questions.
+        Research you do in advance will come in handy here.
+        For eg: Office has been aggressively pursuing an online strategy.
+        Is this a play at the consumer market to protect Microsoft from Google?
+
+      3. Passion questions.
+         I’m not familiar with the technology you mentioned earlier. Could you tell me a bit about it?
+
+-- During the Interview
+  -- Story -> spark conversation
+  4 Ways to Keep the Interviewer’s Attention
+  1. Vary your speech.
+  2. Tell a story.
+  3. Talk less.
+  4. Structure your responses.
+
+  eg. Interviewer: What was your project at Google?
+  Candidate: I joined just after Google acquired YouTube, and I was responsible for figuring out a
+  plan for merging YouTube’s tech- nology with Google’s. The two companies were working with some
+  of the same basic technologies, but I needed to figure out how much—if at all—to merge them. I
+  quickly discovered that YouTube could be made much more cost effective by leveraging the Google
+  Video libraries. I spent most of my time working on the video compression library, which is where I
+  hit some of the most interesting challenges.
+     “I can elaborate on that if you’d like.” This is a good way of skipping over details in a story
+  that an interviewer may or may not want to hear.
+
+-- Onsite interview
+  1. Projecting Confidence
+  2. Eye contact. Making eye contact with your interviewer shows confidence
+  3. Match your volume
+  4. Don’t argue (too much). Use wording like, “Interesting—I thought that Apple had stated they
+wouldn’t enter this market,” and then if your interviewer stands firm, “Oh, all right, I must be
+thinking of something else.”
+  5. Watch out for nervous habits. Fidgeting with your watch. Chewing on pencils. Twirling your hair
+between your fin- gers.
+
+-- The Phone Interview preparation
+  1. Calculator
+  2. Pencil and paper.
+  3. Your resume.
+  4. Computer
+  5. Your interview preparation grid
+  6. Notes
+  7. Find a quiet place
+  8. Avoid rescheduling (but do so if necessary).
+  9. Smile! Even though your interviewer may not be able to see you, smiles are reflected in your voice
+
+-- The HR Screening Interview
+  1. Look for red flags
+    Evaluate any potential red flags on your resume.
+    Do you have several jobs of less than two years?
+  2. Be prepared for salary questions.
+    use the Internet and your friends network
+
+-- Lunch Interviews
+  1. Don’t order messy foods.
+  2. Take cues from the interviewer.
+  3. Limit your liquids.
+  4. Check your teeth afterwards
+
+-- After the Interview
+  The “Thank You” Note
+  Following Up with Your Recruiter
+    Hi Jamie,
+    I wanted to thank you for helping coordinate my interview last week, and I also wanted to check in about my interview status.
+    Do you know when I could
+    expect an update?
+    Thank you! Gayle
+
+-- Interview Questions
+  Check preparation grid template.
+  Remember to always be honest and that a lie by omission is still a lie.
+  Communication
+    Don’t interrupt.- Listen fully to your interviewer’s question
+    Clarify ambiguity.
+    Talk out loud
+  Acing the Standard Questions
+
+Behavioral and Resume questions
+  What They’re Looking For
+    Resume verification
+    Getting Things done
+    Personality and culture fit
+    Communication
+  How to Approach
+    SAR (Situation, Action, Result)
+
+  Five Example Questions
+  1. Tell me about a time when you gave a presentation to a group of people who disagreed with you.
+  2. Tell me about the biggest mistake you made on your past project.
+  3. Tell me about a time when you had to deal with a teammate who was underperforming.
+  4. Tell me about a time when you had to make a controversial decision.
+  5. Tell me about a time when you had to use emotional intelligence to lead.
+
+-- Estimate questions
+
+  What They’re Looking For
+    1. Mathematics
+    2. Assumptions - Can you make reasonable assumptions, such as the width of an aircraft?
+    3. Deduction/Intelligence. Can you logically reason through an answer using the facts that you do know?
+    4. Carefulness. Do you understand when not to generalize?
+    5. Intuition. Do you have a good gut feel for when something doesn’t sound right
+
+  Five Example Questions
+    1. How many golf balls would fit in a school bus?
+    2. How many pizzas are delivered in New York?
+    3. How much revenue does the pet food industry make
+    each year?
+    4. How much would you charge to wash all the streets in New York City?
+    5. How many people work at fast-food restaurants in the entire world?
+    6. How many ping-pong balls would fit in a 747 aircraft?
+
+-- Design Questions
+  What They’re Looking For
+  1. Are you creative?
+  2. Are you customer focused?
+  3. How do you deal with ambiguity?
+  4. Can you communicate your ideas?
+
+  How to Approach Them
+    Step 1: Resolve Ambiguity
+    Step 2: What Are the Basic Product Needs?
+    Step 3: What Does the Customer Need? (And Who Is the Customer?)
+    Step 4: What Features Will Meet These Needs? - Durability, Safety,
+
+  Five Example Questions
+    1. Design a TV remote for six-year-olds.
+    2. Design an ATM for the blind.
+    3. If you had an infinite amount of money, how would you
+    design a bathroom?
+    4. Most people hate bank web sites. Design a web site for a
+    new bank.
+    5. Design the heating/air-conditioning controls for a car.
+  Assume that you’re designing from scratch: no one has ever seen a car’s air-conditioning/heating
+controls
+
+-- Brainteasers:
+  eg. Why Are Manhole Covers Round?
+
+  How to Approach Them
+    1. Solve a subproblem
+    2. Develop a Rule or Equation
+    3. Simplify the problem
+
+-- The Programming Interview
+
+  Google tends to emphasize questions on scalability
+  Amazon loves object-oriented design questions
+  Microsoft is all over the map
+  Apple wants to know that you’re as die-hard an Apple fan as the other people in the cult
+
+  How to Prepare
+    The Five-Step Approach to Effective Preparation
+    1. Try to solve the problem on your own
+    2. Write the code for the algorithm on paper
+    3. Test your code
+    4. Type your code into a computer exactly as
+    5. Start a list of all the mistakes you made,
+      and analyze what types of mistakes you make the most often
+
+-- Coding Questions
+    1. Ask your interviewer questions to resolve ambiguity.
+    2. Design an algorithm.
+    3. Write pseudo-code first inform him in adavance
+    4. Write your code, not too slow and not too fast.
+    5. Test your code and carefully fix any mistakes.
+
+    Algorithm Questions: Five Ways to Create an Algorithm
+      Approach 1: Examplify
+      Approach 2: Pattern Matching
+      Approach 3: Simplify and Generalize
+      Approach 4: Base Case and Build
+      Approach 5: Data Structure Brainstorm
+
+-- Object-Oriented Design
+    1. What are your goals?
+    2. What are the core objects?
+    3. How do the objects relate to each other?
+    4. How do the objects interact?
+    5. Are there any tricky algorithms?
+
+-- Scalability Questions
+    1. How would you solve the problem for a small number of items? Develop an algorithm for this
+ca  se, which is often pretty straightforward.
+    2. What happens when you try to implement that algorithm with millions of items? It’s likely that
+yo  u have run out of space on the computer. So, divide up the files across many computers.
+    How do you divide up data across many machines? That is, do the first 100 items appear on the
+sa  me computer? Or all items with the same hash value mod 100?
+    About how many computers will you need? To estimate this, ask how big each item is, and take a
+guess at (or ask your interviewer) how much space a typical computer has.
+  3. Now,fix the problems that occur when you are using many computers. Make sure to answer the following
+questions:
+ - How does one machine know which machine it should
+  access to look up data?
+ - Can data get out of sync across computers? How do you
+  handle that?
+ - How can you minimize expensive reads across computers?
+
+-- Offer
+  How to Evaluate an Offer
+  1. Career development
+    1. Learning and Development
+    2. Responsibilities and Decision Making
+    3. Promotions
+  2. Financial package.
+    1. Components of an Offer
+    2. Salary, Signing bonus, Relocation, Stock options, Stock grants, Vacation
+  3. Happiness
+  ---- Seven Tips to Winning Negotiations
+    1. Don’t name the first number.
+    2. Have a viable alternative.
+    3. Do your research
+    4. Have a specific “ask.”
+    5. Overshoot
+    6. Use your best medium - Pick up the phone and call the recruiter. But if you’re not—if you think
+  you might get bullied into accepting a subpar offer—then stick to e-mail, where you can tweak every
+  word.
+    7. Sell yourself.
+
+-- On the job
+
+  Define Your Career Path
+
+  Make Your Successes Known
+    When: 2 years 1 year 1-2 years 2+ years
+    What, What I need, What I will get, Notes
+    Send your manager regular updates
+  Set team goals (and update them)
+  Applaud your teammates
+  Managing the Review Process
+    1. Track Your Accomplishments as You Go
+    2. Quantify the Results
+    3. Ask Early for Feedback—and Get It in Writing
+
+  Play a Bit of Politics: Build Strong Relationships
+    1. Help others.
+    2. Be supportive and positive.
+    3. Give credit.
+    4. Appeal to egos
+    5. Shut up and listen
+
+  Identify a Mentor (Traits)
+    1. Successful
+    2. Similar goals
+    3. Similar background
+    4. Supportive, encouraging, and trustworthy
+    5. Has time for you?
+
+  Should You Quit?
+    People quit for a few main reasons:
+      1. to change/improve their career path,
+      2. higher pay
+      3. unhappiness
+
+  How to Not Burn Bridges
+    1. Give sufficient notice
+    2. Find an appropriate time - Leaving halfway through a project or just before a deadline should be avoided,
+    3. Voice concerns early. If you’re leaving because of specific
+      things about the company you don’t like, particularly if these are changeable, voice these concerns early.
+    4. Tell your manager first
+    5. Leave on a positive note
+
+  Should I Find a New Job First?
+    1. No pressure
+    2. Search openly
+    3. Extended vacation
+    4. Unlimited time
+
+-- Action Words
+  1. Clerical or Detail Work
+  2. Communication Skills
+  3. Creative Skills
+  4. Financial Skills
+  5. Helping Skills
+  6. Management Skills
+  7. Research Skills
+  8. Teaching Skills
+  9. Technical Skills
+
+-- Summary examples
+  Software engineer lead with several years’ experience implementing large back-end systems in
+  Java and C , including three as a lead/team manager; led re-architecture of critical system that
+  serves 50 million requests per month, reducing request latency by 20 percent; designed new API for
+  financial product used by 5 of the 10 biggest banks, which accounted for an additional $10 million
+  in revenue; awarded the pres- tigious ‘Green Sticker’ award, given to the top 5 percent of engineers
+  based on total impact to firm.
+
+  Program manager with five years of experience leading fea- ture design of enterprise-oriented
+  products; proposed solu- tion and built team to solve number one cause of customer complaints, and
+  completed project three months ahead of schedule; reduced development costs by 35 percent by cre-
+  ating plan to merge related products into one, more gener- alized product; oversaw integration of
+  acquired technology by leading 17 developers and 9 testers from two companies, resulting in an
+  additional $50 million of sales.”
+--
+  Example: “Design an Algorithm to Sort a List”
+  Q: What sort of list? An array? A linked list? Answer: An array.
+  Q: What does the array hold? Numbers? Characters? Strings?
+  Answer: Numbers.
+  Q: And are the numbers integers?
+  Answer: Yes.
+  Q: Where did the numbers come from? Are they
+  IDs? Values of something?
+  Answer: They are the ages of customers.
+  Q: And how many customers are there?
+  Answer: About a million.
+  Step 2: Design an Algorithm
+ - What are the space and time complexities?
+ - What happens if there is a lot of data?
+ - Does your design cause other issues? (i.e., if you’re creating
+  a modified version of a binary search tree, did your design
+  impact the time for insert/find/delete?)
+ - If there are other issues, did you make the right trade-offs?
+ - If they gave you specific data (e.g., mentioned that the data
+  is ages, or in sorted order), have you leveraged that informa- tion? There’s probably a reason
+that you’re given it.
+  Step 3: Pseudo-Code
+  Step 4: Code
+   - Use data structures generously
+   - Don’t crowd your code.
+  Step 5: Test
+  Yes, you need to test your code! Consider testing for:
+ - Extreme cases: 0, negative, null, maximums, etc.
+ - User error: What happens if the user passes in null or a nega-
+  tive value?
+ - General cases: Test the normal case.
+
+-- Why Do You Want to Work Here?
+    There are two major reasons. First, I’m really interested in the design of large systems.
+I’ve taken a lot of courses on distributing systems and explored this for my senior project. I
+feel Google is the best place to deepen my knowledge in this area. But, second, and perhaps more
+importantly, I really believe that the most important thing for any job
+is to make sure that you’re learning a lot. Whereas at many companies you really learn only about
+your own team, at Google, employees seem to be encouraged to transfer teams, to share knowledge
+across teams, to do tech talks about their team’s architecture, etc. I can’t think of any place
+where I’d learn more than at Google.
+-- Why Are You Leaving Your Job?
+  My current position has been great in certain ways. It’s taught me a lot about communication,
+negotiations, and how to manage many clients at
+  once. However, new client acquisition is so highly prioritized at my com- pany that I don’t have
+the opportunity to develop more lasting relation- ships with clients. I’m looking for an opportunity
+where I can do this.
+-- Why Should We Hire You?
+    I understand that one of your company’s core issues has been improving the server uptime. I
+think I could make a large impact on this issue, for three reasons. First, my current position
+has offered me a deep background in efficient server programming, which would be valuable on this
+project. Second, I recognize that this problem requires working with several teams simultaneously,
+and I have been playing this intermediary role in my current posi- tion. Third, I’ve spent my spare
+time profiling various open source projects for their memory usage, and this experience has exposed
+me to a variety of tools and techniques for optimization
+  Where Do You See Yourself in Five Years?
+While I’m flexible to where the best opportunity to learn and grow is, I hope to take on a new set
+of responsibilities. I believe that I have the work ethic and people skills to advance into being
+a team manager within five years, and I think that, with the additional refinement in my technical
+skills that this current position would offer, I would be ideally suited for such advancement.
+-- What Are Your Strengths?
+  I think there are three core strengths. First, I have strong communication skills that have been
+refined through five years of prior teaching experi- ence. Second, I’m a very creative person.
+Whether it’s writing new song lyrics for my band or designing a novel interface, I’m able to
+find unique solutions to problems. Third, I am passionate about learning. I recently finished up
+a certificate in psychology at the local university, and I’m starting a new program now in art
+history. I may never directly apply this education, but I love learning new things.
+-- What Are Your Weaknesses?
+  I think I have three main weaknesses. First, I sometimes lack an attention to detail. While this
+is somewhat good in that it enables me to execute quickly, it also means that I can make careless
+mistakes. I have learned that I need to double or triple check important work before submitting.
+Second, I am a very quantitative person, and sometimes I can lose sight of the personal aspect of
+a decision—whom it impacts and why. I’ve learned the hard way that I need to consider who all the
+stakeholders are in a decision, and how they’ll react. Third, I am too critical of my own ideas and
+sometimes those of others. I’ve largely masked this by focusing on offering positive feedback, but I
+know I have some room to improve my internal reactions.
+
+-- Example Problems
+  1. Design analgorithmtofigureoutifsomeonehaswonina game of tic-tac-toe.
+  2. Given an image represented by an NxN matrix,where each pixel in the image is 4 bytes, write a method to
+rotate the image by 90 degrees. Can you do this in place?
+  3. You have two numbers represented by a linked list, where each node contains a single digit.
+The digits are stored in reverse order, such that the 1’s digit is at the head of the list. Write a
+function that adds the two numbers and returns the sum as a linked list.
+  Input: (3 -  1 -  5) 1 (5 -  9 -  2)
+  Output: 8 -  0 -  8
+  4. You are given an array of integers(both positive and negative).
+  Find the continuous sequence with the largest sum. Return only the sum.
+  Input: {2, -8, 3, -2, 4, -10}
+  Output: 5. (i.e., {3, 2, 4}).
+  5. Implement a MyQueue class, which implements a queue using two stacks.
+  6. Write an algorithm to find the “next” node (i.e., in-order successor) of a given node in a
+binary search tree where each node has a link to its parent.
+  7. Design the OOD for a deck of cards. Explain how you would implement a Shuffle() method.
+  8. Describe an algorithm to find the largest one million numbers in one billion numbers.
+  Assume that the computer memory can hold all one billion numbers.
+  9. Given two words of equal length that are in a dictionary, write a method to transform one word
+into another word by changing only one letter at a time.
+  The new word you get in each step must be in the dictionary.
+  Input: DAMP, LIKE
+  Output: DAMP - LAMP - LIME - LIKE
+  10. Given an NxN matrix of positive and negative integers,write code to find
+the submatrix with the largest possible sum.
+
+vim: foldmethod=expr

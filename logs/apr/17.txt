@@ -1,0 +1,18 @@
+-- Which font to use for programming?
+
+  -- Criteria
+  1. Must be narrow
+  2. Must adjust more chars per line
+
+  -- What to use
+  1. M+1m font - https://www.fontsquirrel.com/fonts/M-1m
+  2. Anka/coder - https://code.google.com/archive/p/anka-coder-fonts/downloads
+  3. https://github.com/tonsky/FiraCode
+  4. https://www.reddit.com/r/vim/comments/22uwbj/m_monospace_fonts_for_programming/
+  5. https://macwright.org/2014/07/09/mplus.html
+  6. https://www.codeproject.com/Articles/30040/Font-Survey-of-the-Best-Monospaced-Programming
+
+  -- How to deploy
+  cd v2.config/font
+  cp *ttf new_font_dir
+  ./install.sh

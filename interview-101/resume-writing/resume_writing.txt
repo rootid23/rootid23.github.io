@@ -1,0 +1,92 @@
+
+-- Focused, Powerful (Action words), Concise (Clarity + Effectiveness)
+
+-- Resume parts
+    Summary/Objective
+    Experience
+    Accomplishments
+    Competencies
+    Education
+
+-- Margins
+    Top  = 1.5"
+    Bottom  = 3.0"
+    Left = 1.25"
+    Right = 1.25"
+    Vertical align = center
+
+-- Competencies (5)
+
+  1. Analytic skills
+    Problem solving
+    Critical thinking
+    Decision making
+    Research and inquiry
+
+  2. Interpersonal skills
+    Communication
+    Collaboration
+    Leadership
+    responsibility
+
+  3. Ability to execute
+    initiative
+    self-direction
+    Productivity
+
+  4. Information processing
+    Information literacy
+    Media literacy
+    Digital citizenship
+    ICT proficiencies
+
+  5. Capacity for change
+    Creativity and innovation
+    Adaptive learning
+    Learning to learn
+    Flexibility (Open to change)
+
+-- Think about the big picture (Game of 20 questions)
+  1. Why do you do what you do?
+      What's the purpose you've set for yourself in your life?
+      What's your why for the work you do, not the money, but the deeper reason?
+  2. What makes you unique?
+      What skills and talents set you apart? (Pitch worksheet)
+  3. Your accomplishments ?
+      Refer your interpersonal style inventory sheets.
+  4. What problems you've solved?
+     What projects you've worked?
+
+
+-- Beyond job description
+  1. Identify relevant competencies for the position.
+  background -> skill -> accomplishment
+
+https://corpus.byu.edu/coca/
+
+-- Accomplishment
+  What ?
+  Communicates competencies
+  How ?
+  1. Action verb
+  2. S-T-A-R - Respond to behavioral questions
+  3. Less is more - use few words.
+  4. Eliminate words like various and numerous and use actual numbers instead.
+    Remove pronouns and articles that do not add to your content.
+    Also, it's better to round off numbers and percentages than to use words
+  5. 3 Tier approach - communicate multiple competencies
+    eg. Analytic, Creative, Leadership and Communication skills
+        The situation or problem that is implied relates to some kind of inefficiency and technical
+        support responses.
+        Your task was to fix the problem. As part of fulfilling this task, following your analysis,
+        this is the action you took.
+        You wrote new support scripts and the result was a significant reduction in the time that
+        support techs
+        had to spend on the phone with a commensurate reduction in labor costs.
+        communication and leadership skills - You took the action of training support employees,
+        which led to an impressive result in reduced training times.
+-- eg.
+  1. Result-oriented profession - Don't
+  2. I love to solve thorny distributed system problems.
+
+-- Cover letter - AIDA approach

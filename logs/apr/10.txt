@@ -1,0 +1,17 @@
+-- Physics Books
+  6 Easy Pieces http://bit.ly/feynman6
+  easy 6 Not So Easy Pieces http://bit.ly/feynman6notsoeasy
+  Alex's Adventures in Numberland http://bit.ly/alexadventures
+  Physics of the Impossible http://bit.ly/physics
+  Impossible Quantum http://bit.ly/kumarquantum In Search of Schrodinger's Cat http://bit.ly/gribbincat
+  The Elegant Universe http://bit.ly/greeneelegantuniverse
+  Mathematical Methods http://bit.ly/mathematicalmethods
+  Fundamentals of Physics http://bit.ly/hallidayresnickwalker
+  Grad, Div, Curl and All That http://bit.ly/graddivcurl
+  Concepts in Thermal Physics http://bit.ly/blundellandblundell
+  Visual Display of Quantitative Information http://bit.ly/visualdisplayquantitative
+
+-- ADEPT method to learn
+
+-- GTD
+  Parkisons law for time + startup ceo + theme/day + review

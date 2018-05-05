@@ -1,0 +1,123 @@
+-- Litmus tests W/5 Weeder questions
+
+-- 1) Coding.use
+  What to Look for
+    Syntax - must be correct
+    Speed
+  Eg .
+  1. Write a function to reverse a string.
+  2. Write function to compute Nth fibonacci number.
+  3. Print out the grade-school multiplication table up to 12x12
+  4. Write a function that sums up integers from a text file, one int per line.
+  5. Write function to print the odd numbers from 1 to 99.
+  6. Find the largest int value in an int array.
+  7. Format an RGB value (three 1-byte numbers) as a 6-digit hexadecimal string.
+
+-- 2) OO design.
+  What to Look for
+    basic OO concepts,
+    classes design to model a simple problem.
+  Eg.
+  1. Design a deck of cards that can be used for different card game applications.
+  2. Create a class design to represent a filesystem.
+  3. Design a parking garage.
+  4. Design a bank of elevators in a skyscraper.
+  5. Model the monorail system at Disney World.
+  6. Design a restaurant-reservation system.
+  7. Design a hotel room-reservation system.
+
+-- 3) Scripting and regexes. The candidate has to describe how to find the phone numbers in 50,000
+HTML
+pages.
+
+-- 4) Data structures.
+  What to Look for
+    basic knowledge of the most common data structures.
+    Meat and potato in the programming
+
+   Candidates should be able to describe, for any of the data structures above:
+   1. What you use them for (real-life examples)
+   2. Why you prefer them for those examples
+   3. The operations they typically provide (e.g. insert, delete, find)
+   4. The big-O performance of those operations (e.g. logarithmic, exponential)
+   5. How you traverse them to visit all their elements, and what order they're visited in
+   at least one typical implementation for the data structure
+  Eg :
+    1. What are some really common data structures, e.g. in java.util?
+    2. When would you use a linked list vs. a vector?
+    3. Can you implement a Map with a tree? What about with a list?
+    4. How do you print out the nodes of a tree in level-order (i.e. first level, then 2nd level,
+then 3rdlevel, etc.)
+    5. What's the worst-case insertion performance of a hashtable? Of a binary tree?
+    6. What are some options for implementing a priority queue?
+
+-- 5) Bits and bytes.
+  What to Look for
+    1. should know what bits and bytes are.
+    2. They should be able to count in binary;
+    e.g. they should be able to tell you what 2^5 or 2^10 is, in decimal. They shouldn't stare
+blankly at you when
+you ask with 2^16 is. It's a special number. They should know it.
+
+  Eg.
+  1. Tell me how to test whether the high-order bit is set in a byte.
+  2. Write a function to count all the bits in an int value; e.g. the function with the signature int
+countBits(int x)
+  3. Describe a function that takes an int value, and returns true if the bit pattern of that int value
+is the same if you reverse it (i.e. it's a palindrome); i.e. boolean isPalindrome(int x)
+
+-- OO examples
+  1. Design a deck of cards that can be used for different card game applications.
+     Likely classes: a Deck, a Card, a Hand, a Board, and possibly Rank and Suit. Drill down on
+who's responsible for creating new Decks, where they get shuffled, how you deal cards, etc. Do you
+need a different instance for every card in a casino in Vegas?
+     Model the Animal kingdom as a class system, for use in a Virtual Zoo program.
+     Possible sub-issues: do they know the animal kingdom at all? (I.e. common sense.) What
+properties and methods do they immediately think are the most important? Do they use abstract
+classes and/or interfaces to represent shared stuff? How do they handle the multiple-inheritance
+problem posed by, say, a tomato (fruit or veggie?), a sponge (animal or plant?), or a mule (donkey
+or horse?)
+  2. Create a class design to represent a filesystem.
+     Do they even know what a filesystem is, and what services it provides? Likely classes:
+Filesystem, Directory, File, Permission. What's their relationship? How do you differentiate between
+text and binary files, or do you need to? What about executable files? How do they model a Directory
+containing many files? Do they use a data structure for it? Which one, and what performance
+tradeoffs does it have?
+     Design an OO representation to model HTML.
+     How do they represent tags and content? What about containment relationships? Bonus points if
+they know that this has already been done a bunch of times, e.g. with DOM. But they still have to
+describe it.
+
+-- Must know Terms
+    1. class, object (and the difference between the two)
+    2. instantiation
+    3. method (as opposed to, say, a C function)
+    4. virtual method, pure virtual method
+    5. class/static method
+    6. static/class initializer
+    7. constructor
+    8. destructor/finalizer
+    9. superclass or base class
+    10. subclass or derived class
+    11. inheritance
+    12. encapsulation
+    13. multiple inheritance (and give an example)
+    14. delegation/forwarding
+    15. composition/aggregation
+    16. abstract class
+    17. interface/protocol (and different from abstract class)
+    18. method overriding
+    19. method overloading (and difference from overriding)
+    20. polymorphism (without resorting to examples)
+    21. is-a versus has-a relationships (with examples)
+    22. method signatures (what's included in one)
+    23. method visibility (e.g. public/private/other)
+
+-- For the OO-design weeder question, have them describe:
+   1. What classes they would define.
+   2. What methods go in each class (including signatures).
+   3. What the class constructors are responsible for.
+   4. What data structures the class will have to maintain.
+   5. Whether any Design Patterns are applicable to this problem.
+
+vim: foldmethod=expr

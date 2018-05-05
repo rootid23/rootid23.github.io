@@ -1,0 +1,18 @@
+-- SRE google
+http://code.dblock.org/2018/03/07/enabling-ssl-on-github-pages.html
+
+-- Divide up the days for newsbot by alphabet and scan
+  Mon - A-F
+  Tue - G-K
+  Wed - L-P
+  Thu - Q-U
+  Fri - V-Z
+
+-- Env config for distributed java
+  https://github.com/cfg4j/cfg4j
+
+-- Prosthmus - docker
+  Monitor services thru service discovery
+  Docker use the DNS A record to get the docker instance detail
+  Architecture - Heart , Alert, DashBoard (Grafana), TS database
+  TS DB design <row key> | <ts01, v01>, <ts01, v01> - float64, int64

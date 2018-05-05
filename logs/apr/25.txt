@@ -1,0 +1,7 @@
+-- Google search - HOT OS - New ideas in OS
+  Read
+  1. Conference paper
+
+  Don't read
+    Journal paper
+

@@ -1,1 +1,30 @@
 http://vim.wikia.com/wiki/VimTip607
+
+
+His blog : http://ctoomey.com/posts/an-incremental-approach-to-vim/ His
+color scheme : https://github.com/jonathanfilip/vim-lucius
+His .dotfiles : https://github.com/christoomey/dotfiles
+His twitter : https://twitter.com/christoomey
+
+Mentioned links :
+https://benmccormick.org/2014/07/02/learning-vim-in-2014-vim-as-language/
+http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/
+https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1
+https://medium.com/usevim/stop-the-vim-configuration-madness-c825578bbf3e
+https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
+https://github.com/tpope/vim-repeat
+
+Plugins:
+Surround : https://github.com/tpope/vim-surround
+Commentary : https://github.com/tpope/vim-commentary
+ReplaceWithRegister : https://github.com/vim-scripts/ReplaceWithRegister
+Titlecase : https://github.com/christoomey/vim-titlecase
+Sort-motion : https://github.com/christoomey/vim-sort-motion
+System Copy : https://github.com/christoomey/vim-system-copy
+
+Custom objects:
+All of them : https://github.com/kana/vim-textobj-user/wiki
+vim-textobj-indent : https://github.com/kana/vim-textobj-indent
+vim-textobj-entire : https://github.com/kana/vim-textobj-entire
+vim-textobj-line : https://github.com/kana/vim-textobj-line
+vim-textobj-rubyblock : https://github.com/nelstrom/vim-textobj-rubyblock

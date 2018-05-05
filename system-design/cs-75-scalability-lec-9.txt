@@ -1,0 +1,47 @@
+Scalbility - David Malan
+-- Provisioning
+  - Web host eg.  Bluehost, DreamHost, Go, Daddy, Host, Gator, Pair Networks
+  - VPSes eg.  DreamHost, Go Daddy,  Host Gator,  Linode, pair Networks,  Slicehost, VPSLAND
+
+-- Scalling (CPU, Cache, RAM, Disk- SATA,PATA, SAS, RAID)
+  vertical - buy costly hardware
+  horizontal - buy more cheap hardware
+
+-- load balancing & caching (L4 vs L7 load balancing)
+  - Load Balancing with BIND cmd - Single pt of failure - loadbalancer dies
+  - S/W (ELB, HAProxy, LVS) vs H/W (Barracuda, Cisco, Citrix, F5)
+  - nslookup google.com, who google.com
+
+-- RAID - Striping
+  0,1,5
+
+-- Code optimization eg. PHP accelration
+
+-- Caching
+  DB eg. query_cache_type = 1
+  Code - e.g. use memcache (In-memory) LRU/LFU?
+
+-- Mysql DB engine
+  MyISAM - table-level locking
+  Innodb - row-level locking
+
+-- DB scaling
+  Replication - used for HA -  (M-S or M-S) active-active, active-passive W/ or W/O Load balancing
+  Partition - solves horizontal scalibility
+
+-- Datacenter scaling
+  Deployment in multiple AZs
+
+-- Security
+  connection from internet->AZ (Https) -> LB (Https) -> Host (http) -> LB (tcp) -> DB(TCP)
+
+-- TODOS
+?shared session state
+  ?sticky session
+  ?session affinity
+
+-- Qs
+Have we introduced weakness in network topology?
+What are advantages/downside of the architecture?
+
+vim: foldmethod=expr
