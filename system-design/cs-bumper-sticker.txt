@@ -6,7 +6,7 @@
   Get your data structures correct first, and the rest of the program will write itself.
 
 -- User interface
-  For 80 percent of all data sets, 95 percent of the infor- mation can be seen in a good graph.
+  For 80 percent of all data sets, 95 percent of the information can be seen in a good graph.
 
 -- Debugging
   Each new user of a new system uncovers a new class of bugs
