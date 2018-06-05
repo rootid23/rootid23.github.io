@@ -1,0 +1,69 @@
+-- Getting Things Done by David Allen.
+
+-- Why ?
+  Pending tasks/actions remain in the short term memory/cognitive power house and it creates
+cognitive load.
+  Enhance distributed cognition ability
+  Improve Goal striving ability
+  Go to auto pilot mode for self planning
+  Improve PsyCap - Self efficacy (confidence), optimism, hope, resilience(bounce back ability)
+  Utilize flow theory efficiently - mind like water
+  Fix procrastination
+  Improve Next-project ability
+  Overcome anxiety (Chinta -> Chita)
+  # of tasks in mind are inversely proportional to tasks done
+
+-- What ?
+  Framework to organize, track and review actionable task.
+
+-- How?
+  -- 5 Steps
+
+    1. Capture - Find out the next project
+            Where to find next project
+                  1. Current activities
+                  2. Higher horizon
+                  3. Current problems
+    2. Clarify/Brainstorming - Use the external brain and mind i.e. mind mapping
+                 or paper and explore the options and create the tasks
+
+    3. Organize - Create task precedence for execution
+    4. Reflect - Make the checklist and put it in the Calender
+    5. Engage - Do the work with mind like water/ in the zone approach
+
+  -- 4-3-6 model
+    1. 4 point model - To do the tasks in hand.
+       Must evaluate
+       1. Context
+       2. Time available
+       3. Energy available
+       4. Priority
+    2. 3 point model - to do the daily work
+        1. Predefined
+        2. As it shows up
+        3. New defined work
+    3. 6 point review model
+        1. Purpose (Why?)
+        2. Vision
+        3. Goals
+        4. Area of focus + accountability
+        5. Current project
+        6. Current action
+
+    -- 2 Min rule
+    If task can be done in 2 mins then do it now or else defer or delegate it.
+
+
+-- Next action
+  1. Focus on actionable task
+  2. Identify current project + action + Supported material link
+  3. Next project + Reference material + Extended brain + mind mapping tool
+     Explore all options - Focus on quality not quantity
+  4. Do weekly review (It creates loop and enhance the planning ability)
+     Tickler monthly/biweekly plan (Non/Digitized) for review
+  5. Design workflow aiming to convert it into auto pilot mode
+  6. Trashing is important must be done frequently
+
+-- Tags
+@ACT, @DO, @DEL, @DEF, @NXT, @CUR, @MYB
+
